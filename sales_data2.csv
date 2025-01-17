@@ -1,0 +1,1001 @@
+OrderID,CustomerID,ProductID,Category,Quantity,PricePerUnit,OrderDate,Discount,Region
+b77977ea,87c28c38,2d22e203,Books,10,220.94,2024-01-25,25,Middle East
+ff73b765,cebc31fd,82d23d88,Home Appliances,3,79.64,2024-11-16,4,Europe
+656ad720,994c83b1,f028553d,Books,1,221.57,2024-08-13,7,Middle East
+533f68b0,954fb95a,e3a03141,Clothing,5,474.48,2024-06-23,23,Middle East
+083f829e,1546f89d,5f148ef9,Home Appliances,8,331.56,2024-08-15,2,North America
+d9d08a1c,e2c7f01a,cb3ec6b1,Electronics,7,391.57,2024-09-16,3,Asia
+daf0fe6c,defa6f65,0bb3fa84,Clothing,2,179.76,2024-12-10,12,Europe
+072870ce,b8be39a0,3cc6078d,Toys,1,435.15,2024-11-09,18,Africa
+87b5341a,27e89d43,894e7ce1,Home Appliances,4,420.36,2024-01-21,44,Africa
+c001cbe2,b0610b44,a62063d8,Clothing,5,317.35,2024-03-30,50,Africa
+c8dfd797,662d8f29,170790e2,Home Appliances,7,316.45,2024-12-25,47,Africa
+8eec9305,b551cb79,7fa02dff,Home Appliances,4,7.2,2024-06-18,27,Asia
+ddf489aa,78f8378c,b1da9cb4,Clothing,9,177.11,2024-01-25,44,Europe
+4b47576c,10f0002c,06701119,Toys,2,187.24,2024-04-04,23,Asia
+68988dca,e624e558,616d5f44,Home Appliances,10,332.85,2024-04-03,20,Middle East
+1ecb1764,7a9f5829,b637b9c9,Books,2,359.61,2024-08-27,6,Europe
+6eff0e60,95f8565a,7c398640,Electronics,2,136.02,2024-09-21,17,North America
+d4752bd1,c2d57d21,8d2d6ef4,Electronics,5,360.29,2024-11-17,14,Middle East
+06b59af0,a53946b5,8013e78e,Clothing,5,360.55,2024-04-27,46,North America
+16ccb860,ccd0236c,b1184f81,Clothing,7,291.86,2024-10-31,47,Asia
+f1a3d9ff,c325974d,2d36156b,Clothing,1,287.05,2024-10-02,23,North America
+d4367f37,c515aad4,92f2773d,Electronics,10,296.71,2024-10-29,40,Asia
+b087bad3,024d8e17,f51ac860,Books,9,33.34,2024-07-13,38,Asia
+64e49397,8c5a4fea,eb0f1a12,Books,10,443.16,2024-10-07,10,Europe
+6294ea86,9af5e3b9,6a7b50e5,Clothing,3,353.84,2024-02-06,32,Middle East
+93f42c4e,756248be,28b68564,Electronics,5,385.1,2024-09-11,24,Africa
+13a95e72,af844860,bcd8c758,Home Appliances,1,348.2,2024-12-10,42,Middle East
+e87b6871,9af23124,fcaab8e5,Books,6,146.34,2024-06-18,14,Africa
+ed6647e9,4bfa23ec,eb4fe1b1,Electronics,1,39.31,2024-03-20,5,North America
+d4c87ab5,6f6dccb4,40bf05dd,Home Appliances,6,22.87,2024-10-29,3,Africa
+59002830,94567914,972dede6,Electronics,3,195.61,2024-11-09,14,Asia
+2d8a14f2,69117dbe,6a00e7fa,Electronics,1,477.49,2024-06-13,10,Europe
+d3360d39,2bf9cca2,6d64603e,Books,4,182.92,2024-03-12,49,Europe
+a571392e,f531ccd6,bfd97625,Electronics,10,120.57,2024-03-29,20,Europe
+19a828b8,59d4ec14,7fb53017,Books,2,47.12,2024-09-15,44,Middle East
+244e4408,dcbebb61,ff0984e5,Books,2,334.35,2024-06-17,6,Europe
+42c5db9f,081d88d5,9efe876a,Clothing,7,89.99,2024-08-30,30,Africa
+cca0a9ad,dcfe28ee,bc27379d,Clothing,6,397.49,2024-09-28,7,Middle East
+35cd67e8,ffd44a31,da4535a4,Electronics,5,427.98,2024-06-28,30,Africa
+1fc3f13d,1bc9c553,876d4c79,Clothing,4,26.19,2024-03-31,20,North America
+04dbc488,d8633646,366ec649,Books,4,346.62,2024-11-08,38,North America
+ec49c9dd,c6b74ac1,042bba58,Home Appliances,7,394.83,2024-09-22,33,Middle East
+04b51084,1cebb15f,b47b8fa0,Home Appliances,5,197.97,2024-05-17,11,Asia
+88121008,a9876781,be9c6106,Home Appliances,2,221.71,2024-09-02,16,Asia
+0f21d7bb,521a5b80,51b15eef,Home Appliances,5,353.68,2024-07-22,3,Europe
+a46fbdf6,9353d07b,438f1623,Home Appliances,7,126.83,2024-05-26,27,Africa
+51324a43,36351892,079dd7ea,Electronics,7,316.39,2024-09-12,5,Africa
+88bfaed6,82f25a4b,9160be6d,Home Appliances,1,39.55,2024-12-29,37,North America
+1641ab2c,c0b4d28b,6fd50da2,Books,4,92.94,2024-05-12,41,Africa
+a7b8a5e7,a5bda0a0,00304bb7,Electronics,10,366.69,2024-05-11,17,Africa
+ade6de46,7428a144,d5e985aa,Toys,5,407.17,2024-12-18,41,Asia
+187434ad,30d0e917,12a9b1cb,Home Appliances,6,330.0,2024-02-20,17,Middle East
+8841bfd5,28000585,1b228c5c,Toys,10,221.34,2024-02-18,34,Asia
+29ac8d49,4977a43c,3b57cec0,Clothing,8,200.17,2024-10-19,22,Asia
+c6a8baac,0174369b,a7b321b7,Electronics,2,254.93,2024-12-27,41,North America
+4f5c3de2,7af8a684,f1bd8de7,Books,7,467.97,2024-12-02,11,Middle East
+cea3ed22,5f490e7c,d49f4480,Clothing,6,353.64,2024-10-07,8,Asia
+03998b16,1d27d878,8a16f7c6,Home Appliances,3,175.84,2024-03-25,41,Middle East
+9119508b,9dc1067a,d216d59b,Books,7,211.95,2024-04-03,13,North America
+f44a2a70,eaf14c6f,d4151988,Clothing,4,405.96,2024-09-10,17,Africa
+32848a5e,3d47eb75,cb31134f,Toys,2,296.15,2024-10-18,19,Africa
+24a7565a,32f20a58,d51b5883,Home Appliances,2,93.03,2024-03-19,25,Africa
+6a91b5b0,9e37d21e,580dfeb8,Electronics,9,376.24,2024-06-14,42,North America
+bed3c2f9,8ef1d765,c32cdb66,Toys,7,56.05,2024-02-11,42,Asia
+3414c145,96c60990,29bc732e,Home Appliances,7,215.01,2024-09-25,3,North America
+a3085409,9de50e09,af56f958,Electronics,9,60.4,2024-11-08,47,Middle East
+bb17b723,0f1dafa5,47ebed90,Electronics,7,177.81,2024-11-25,17,Africa
+e2d3c2de,55d70feb,22aebd3f,Clothing,1,488.15,2024-07-18,46,Africa
+2d6c67c1,6d6e5477,8d845233,Books,2,458.14,2024-06-28,34,Africa
+ef44f68d,ae94f7f2,8e20d020,Electronics,3,70.84,2024-09-26,41,Asia
+70fe80a7,c8965a3c,529df375,Books,1,244.68,2024-05-17,0,Asia
+6a06d844,e905946b,1f562c77,Electronics,3,116.79,2024-09-06,39,North America
+ed18d5f5,1af4b753,24670ca7,Home Appliances,3,177.59,2024-05-28,24,North America
+f2c6d630,cd711751,7de3fefc,Home Appliances,2,335.08,2024-05-17,39,Europe
+b337d3b4,3dbe3ece,66445823,Electronics,4,40.45,2024-07-13,43,Europe
+51f011b2,6df68e17,7278ff61,Clothing,5,7.05,2024-09-19,21,Europe
+ea67c699,422d855e,5d78e6ba,Clothing,8,73.56,2024-01-28,17,North America
+e9183a72,b77330f0,eab8bd94,Books,2,457.58,2024-06-24,4,Europe
+7352314e,05886f01,ebc9ad58,Clothing,7,40.39,2024-01-31,13,Asia
+f8ee55d4,08611755,20d77d87,Electronics,8,324.68,2024-09-15,39,Africa
+73bf43aa,51cbbbae,cde0bb76,Home Appliances,8,473.39,2024-03-24,50,Africa
+68c60d02,0f5880fe,45503a27,Clothing,6,137.02,2024-10-12,35,Asia
+2651f29b,8a32774d,3cd47a2c,Toys,7,347.8,2024-06-11,17,Asia
+e8319bc5,6811e3e8,a189c5e0,Clothing,9,499.67,2024-10-28,27,Asia
+946a2c8b,4a7facb9,e5f2e2d3,Books,3,412.04,2024-11-15,26,Europe
+8b8d9287,df1f8d97,4bb53d9f,Home Appliances,10,423.88,2024-12-07,36,North America
+869cb768,22db337c,7636428c,Toys,1,124.05,2024-06-06,19,Europe
+2ae481c1,bf5d63c4,c460bc45,Clothing,3,344.42,2024-02-01,4,Africa
+57f62e65,48fa4063,ad2692ba,Home Appliances,5,339.33,2024-02-26,39,North America
+52990e75,2ad86a13,a7f1d478,Home Appliances,1,271.02,2024-02-23,22,Asia
+1ba91b55,04fd144b,d8563798,Clothing,8,197.6,2024-05-02,50,Middle East
+2e694bd0,a7c614e2,ffa6bbf8,Clothing,7,216.83,2024-08-21,49,Asia
+e3052bc4,e1235a18,fb56ad67,Clothing,2,127.04,2024-02-12,25,Middle East
+2b333849,57eb33d0,8c6cce24,Books,8,262.21,2024-10-31,31,Asia
+86cff092,ce87ce14,d7ea6a16,Electronics,8,123.92,2024-07-11,4,Middle East
+7e6cc21f,399d3577,8c3556c8,Clothing,6,200.56,2024-07-21,10,North America
+03685049,8336de50,01dc5d95,Clothing,9,157.04,2024-06-14,7,Middle East
+84cdd124,a7292642,05ed1224,Electronics,6,31.1,2024-02-24,0,Asia
+88378282,387205a4,39122af7,Toys,3,456.29,2024-05-16,20,Asia
+ed435135,6d86d961,02844aa5,Clothing,6,344.46,2024-03-17,15,Africa
+c99191ec,5f5b64a7,72e36054,Toys,8,264.37,2024-07-27,20,Africa
+fe201f2f,8d4b6f40,eb79a05c,Clothing,6,303.49,2024-04-04,20,Asia
+6aca2a1f,66e08984,42ea1fa3,Toys,4,334.19,2024-03-10,18,Africa
+1486494e,120704ac,57596e42,Clothing,9,138.43,2024-06-20,19,Middle East
+c84fdbcd,15bba67d,abddc100,Clothing,6,48.35,2024-10-24,42,Asia
+f11894f8,207832b1,0450ab63,Home Appliances,3,7.47,2024-12-08,38,Europe
+015e63f3,c03215a8,a4a6d80e,Toys,4,428.17,2024-10-13,28,Middle East
+c0dba2c5,8274bac2,cb9f68bb,Toys,7,35.3,2024-06-07,33,Asia
+3a354988,ee5b8ef1,536a3ec1,Home Appliances,9,145.94,2024-09-14,48,Asia
+a7a200a9,0dbeda3e,5d923c15,Electronics,10,282.93,2024-10-05,50,Europe
+04b1c1b9,8e939c6c,71620644,Toys,5,411.28,2024-04-12,43,Europe
+42281fab,11f84e79,0c6899d6,Toys,8,220.1,2024-11-03,19,Asia
+97d3913f,57b78338,2d3c1d87,Electronics,2,485.36,2024-08-21,48,Middle East
+18ef44a6,6e4b139d,04ab904e,Electronics,9,146.52,2024-10-09,27,Middle East
+91a54c4e,3c2ce6db,c4842dad,Electronics,10,309.79,2024-06-28,7,Europe
+3f9d4393,2dad16af,cdb0a977,Electronics,3,194.3,2024-05-03,25,Middle East
+a8c16c99,80333ef7,4277d7bf,Books,4,64.45,2024-05-29,4,Asia
+eb038d58,6f2b0980,49c45688,Clothing,7,459.3,2024-12-30,6,Africa
+4a2ff0c1,d0493346,bb8f4d63,Home Appliances,7,486.83,2024-12-29,16,Middle East
+9926813f,8769b53e,97dae90e,Home Appliances,8,447.48,2024-02-14,5,Europe
+6aeeb5df,d5040452,db3ad21a,Toys,7,232.07,2024-08-23,22,Africa
+e0422bff,9ab1f802,f1874370,Clothing,5,23.37,2024-05-28,24,Europe
+a57d60ed,bb2dbb1a,843bb52a,Toys,1,419.96,2024-02-25,2,Asia
+a24f6a04,b1ef534e,fb375973,Clothing,8,470.48,2024-06-20,7,North America
+a88030b2,2accd467,13a6e5f0,Clothing,6,439.44,2024-06-16,45,Europe
+87127a84,91d6b2e4,43422dca,Electronics,4,254.56,2024-10-25,25,Middle East
+b8e4b158,652cf558,edd8b45e,Electronics,5,81.04,2024-08-17,49,Europe
+7834888b,a17502ac,82b63514,Home Appliances,10,87.1,2024-11-28,20,Asia
+23b5c836,8d57ec00,1a3ab403,Home Appliances,5,458.56,2024-10-26,35,Africa
+2acbe947,656a16a7,099a1aa1,Clothing,6,56.81,2024-11-04,11,Europe
+9894639a,3abcbbc8,e2fce7b8,Electronics,6,155.69,2024-11-19,16,North America
+984614c1,3ff318a3,f1c56ea6,Electronics,7,124.2,2024-10-11,16,North America
+33cdc923,dfe70884,68a6dc17,Books,7,40.87,2024-10-04,41,Asia
+975185ff,1bf9df64,4dd6501a,Electronics,1,381.37,2024-10-14,45,Europe
+43a6993c,e5124a8c,5caf69c4,Clothing,7,358.73,2024-08-08,46,North America
+cca01912,06b5a509,c14d0da4,Electronics,4,293.18,2024-04-25,5,North America
+28b96bb2,748f6259,75b5e13e,Clothing,9,95.89,2025-01-01,21,North America
+7774c686,c0250127,6157ffd3,Electronics,4,457.03,2024-10-24,7,North America
+ec9dcc6f,433fcd2b,abb6b4e0,Toys,3,474.98,2024-11-16,5,Asia
+a5804042,d933f6d9,c0c8feb5,Home Appliances,1,251.3,2024-07-03,19,Asia
+30b64219,3bc1d3b2,f292e33b,Clothing,4,491.58,2024-08-02,39,Asia
+0c4d168e,ae58ef99,19b6df3d,Electronics,8,382.1,2024-05-03,2,Asia
+d6843348,f01ed95c,134ec895,Clothing,5,232.39,2025-01-13,36,North America
+a3aec71d,5cf00e85,22c05930,Home Appliances,5,378.26,2024-12-01,34,Europe
+f0cea2ed,0faf0d46,dae86bf8,Toys,3,457.02,2024-11-25,40,Africa
+0cb129ab,4854a486,4ac9d3bd,Toys,5,334.62,2024-06-19,32,Asia
+2aa6b25d,a3722bb8,d1d49471,Electronics,2,14.72,2024-10-29,15,Asia
+faf115d2,272a1004,fce2a461,Home Appliances,10,73.59,2024-06-16,13,North America
+08fe04fb,a0af0f41,dacf8763,Books,8,157.56,2024-02-09,25,North America
+2085425c,6e1dd5cf,0ecc9a21,Toys,5,31.13,2024-12-16,28,Africa
+88b046c7,1de2831d,f8eaff2a,Books,5,257.27,2024-10-04,1,North America
+84072c57,602e8162,f37ffdd1,Books,8,254.49,2024-08-08,21,Africa
+2221f7a3,8f0d2f39,7403cc8c,Toys,7,215.04,2024-11-03,20,Europe
+9da5e8ef,71b74f85,ceb8f59e,Toys,5,316.21,2024-03-27,25,Europe
+5a7fc333,95e256a3,bc0641b1,Books,2,367.93,2024-09-17,24,North America
+5c65b165,936e5f7e,00b2e33d,Books,6,389.86,2024-07-14,49,Europe
+9cbfc0f3,bf0c4ee9,cf467f53,Books,3,249.54,2024-10-14,40,Asia
+2221db75,5545f7c2,195e5993,Books,1,486.5,2024-12-02,26,Africa
+762633c6,035c3a90,4dc37eb2,Books,8,49.56,2024-06-21,12,Asia
+f396a388,101c4461,b4a0b3b2,Home Appliances,8,367.37,2024-05-30,29,Africa
+c37d13df,8dffec59,73ed6d73,Electronics,3,451.68,2024-10-05,41,Europe
+a98cf3ed,2cea538a,93d8cb85,Books,1,95.25,2024-10-19,4,Africa
+b0138d3b,ff834433,a4c3d2c0,Clothing,5,7.23,2024-03-03,34,Middle East
+4ce0ccce,069a4ed0,bdda4384,Clothing,10,454.34,2024-04-26,38,Africa
+a18dcbd5,b207b022,fb19db28,Books,8,472.67,2024-03-10,8,Africa
+30b98cc6,935053a0,ae5adaee,Electronics,2,15.14,2024-09-08,26,Europe
+f594f33e,fa137092,94e3ec9b,Electronics,5,320.75,2024-07-27,12,Africa
+3f621552,8e35e558,4d49d399,Clothing,2,409.25,2024-11-30,14,Europe
+241f03a2,7995c42c,e4e36f5e,Clothing,3,388.27,2024-07-08,46,Asia
+3f32b418,a44ad42b,2b83bf25,Home Appliances,4,139.47,2024-08-19,46,Africa
+68f5b070,9d833d56,e7d88753,Electronics,3,446.66,2024-03-18,14,Asia
+50803fca,44ac9885,9868c41c,Toys,3,317.31,2024-02-24,15,Middle East
+23f33db0,c4a96a75,f3ab43dd,Toys,5,356.13,2024-03-01,41,Middle East
+55ec12e2,f61fd13f,8119e4ec,Books,9,484.18,2024-07-09,9,Europe
+5c830678,5d9ea06b,8384b128,Books,9,30.3,2024-11-02,23,Middle East
+0f5712ce,39204b57,80bdaf9a,Home Appliances,8,256.85,2025-01-12,17,Europe
+b72197de,abb9ebeb,609cce63,Toys,7,123.36,2024-11-23,43,Middle East
+568e72c9,4b3ad152,d116b436,Home Appliances,9,225.82,2024-09-25,10,Europe
+1931d569,e8e55580,a495371a,Electronics,8,140.62,2024-05-22,31,Africa
+2372511c,635a19d5,3cf2743b,Electronics,2,274.6,2025-01-04,40,Middle East
+4cc1712a,ae27112a,a9841387,Toys,6,342.0,2024-11-03,49,North America
+976ed9d9,31477f94,d38e49ef,Clothing,8,346.15,2024-02-16,34,Middle East
+729d5d65,b19948cf,c0266178,Toys,9,190.14,2024-08-23,38,Asia
+1ac6dda2,23ad1348,72d75ce4,Home Appliances,9,487.44,2024-05-09,22,Europe
+3803c19a,a164c798,9f1091f8,Electronics,2,230.31,2024-06-29,45,Middle East
+34510e22,99e554ac,0915bac1,Home Appliances,1,339.66,2024-10-06,50,North America
+5d0ca8cf,6d1cdd1d,69122d71,Clothing,7,479.05,2024-04-20,6,Asia
+9f79d512,349f842c,6c861cf7,Home Appliances,4,465.78,2024-05-25,0,Asia
+607ce1b1,40e94ed0,0aaaf3d9,Books,5,411.65,2024-12-20,18,Asia
+903bb10a,062ef2cb,78b30063,Books,9,86.41,2024-01-30,46,North America
+c0967194,4c6f448b,635ab001,Home Appliances,2,230.57,2024-08-22,31,Africa
+c0b55940,f21b6b2b,c606f764,Clothing,2,324.29,2024-05-18,3,North America
+43036ec8,c508b12b,2af965e1,Books,5,420.62,2024-08-15,2,Asia
+8f792b5d,7b4e7a56,3ada7f16,Clothing,8,135.44,2024-02-01,49,Europe
+3c50a476,3199de1d,7521d270,Electronics,8,12.59,2024-03-02,3,Asia
+a5759962,2d733ff2,43c027eb,Toys,5,301.89,2024-07-16,23,Middle East
+18d4733e,c67d14fe,a9526658,Clothing,10,219.51,2024-12-27,17,Middle East
+d0b41b53,5d199971,1fc88959,Clothing,2,39.54,2024-07-17,14,Middle East
+8e73aa4f,6c4adb7a,976ba9dc,Clothing,1,225.13,2025-01-09,50,Middle East
+9de3a92e,9cfce526,2e530d7a,Home Appliances,9,282.22,2024-06-01,36,Middle East
+0ed34c5c,5fe4b998,8af9c0b3,Clothing,7,33.61,2024-08-26,16,Asia
+c1e39220,2e2a2b72,55fc167f,Toys,3,120.82,2024-10-21,41,Middle East
+308c2a53,e0159ef2,83729e64,Home Appliances,5,130.91,2024-09-26,23,Europe
+c2770aed,c1e6fd63,9e560aa3,Clothing,5,43.19,2024-11-15,8,Africa
+9cf96cc1,dc728d65,0be52789,Books,10,284.53,2025-01-02,12,Europe
+c35a60c7,8ddb28b3,2458aae4,Electronics,5,204.29,2024-04-05,26,Asia
+277ee718,3f3efc23,45df500e,Books,3,217.92,2024-04-26,3,Africa
+4957dcec,e5b42140,8db02b11,Books,10,273.1,2024-06-27,17,Europe
+fc127f62,509838a2,2c78e3fd,Books,9,245.7,2024-06-22,30,Europe
+015199f6,c27d49b3,1af59a48,Toys,4,423.74,2024-02-01,19,Middle East
+3aa0d543,f9e5e39d,4b284e3c,Clothing,6,451.8,2024-07-18,35,Asia
+e92fb07a,879cd5fa,53d086f3,Toys,10,239.23,2024-02-03,14,Africa
+5edb976d,589639b0,815369cb,Toys,4,9.64,2024-05-01,13,North America
+725c040a,6eb3c69a,dcd28561,Toys,2,125.53,2024-12-11,22,North America
+f4882dd8,0c61b01c,9b61aac7,Clothing,9,308.74,2025-01-11,44,Middle East
+be48ef19,7920b741,91f97989,Books,2,122.91,2024-05-09,16,Europe
+294331fb,16d8f498,79648e89,Books,5,342.39,2024-09-22,9,Middle East
+7c0268d3,f8928a2e,a0519c46,Books,1,43.91,2024-06-17,36,Europe
+d4c89b19,6d05fa3a,e7b8bd7b,Books,3,286.79,2024-10-02,49,Africa
+9d1316a2,f1dab282,8a8ac3a8,Clothing,7,296.35,2024-02-01,5,North America
+12e9ba81,eabae145,e1c91e05,Home Appliances,2,464.58,2024-09-16,10,Europe
+f351e525,47e84b32,f2b9d2e8,Books,4,344.68,2025-01-16,32,Europe
+18783df9,d2962300,f5b85b53,Home Appliances,9,254.21,2024-11-12,12,Africa
+ee4d3b78,d0547763,e691c693,Home Appliances,8,220.78,2024-11-11,17,Asia
+96845b1d,c936c40e,63f950f7,Toys,10,16.58,2024-09-01,36,Africa
+ecc61d42,d19b794b,5238a4c6,Clothing,4,63.9,2024-07-28,0,North America
+1e1e2335,b1cef084,564fc338,Home Appliances,1,495.35,2024-03-01,10,Africa
+a830236c,02a2f19c,940cb0d7,Home Appliances,8,220.43,2024-06-25,42,Europe
+cab4aed1,9fda1435,f41a94bb,Books,9,156.42,2024-06-23,14,Asia
+a49dabb4,d41e5f20,8ed8319f,Books,8,415.61,2024-12-13,3,North America
+113cde39,fd8fb6dd,7841d254,Toys,10,14.15,2024-02-06,36,North America
+cec7a102,972579c6,6123fea3,Clothing,7,75.89,2024-10-18,39,North America
+1e766b80,bff11ac3,5f15c1c8,Toys,1,267.98,2024-11-29,4,Africa
+0255aa3a,634b7914,216950d9,Toys,5,66.62,2024-01-26,6,Asia
+355108da,623c4ef1,a5817f94,Electronics,9,155.13,2024-02-17,29,Asia
+785c981e,2cd60a70,5ff0d88c,Electronics,7,286.65,2024-12-26,18,Africa
+234f2b1f,2551bcaf,fffe4d91,Home Appliances,8,300.17,2024-11-29,20,North America
+7fbcea2f,78d44de6,299c51f0,Clothing,6,392.8,2024-04-02,9,Africa
+b8f7c7ba,48d93df7,be771e1a,Electronics,7,413.84,2024-04-04,5,Europe
+f7147e04,d491b989,e5186893,Toys,6,320.45,2024-11-07,27,Middle East
+101a1141,a2092557,00877b71,Electronics,8,152.94,2024-12-16,27,Asia
+fd17abe0,fb865e01,e52a9394,Clothing,2,372.25,2024-03-17,29,Middle East
+8481d22d,1285ff95,6274913e,Toys,9,168.48,2024-09-07,42,Africa
+4de88f26,66c1b3ad,8598b03a,Clothing,7,343.72,2024-11-03,15,Asia
+43360aef,a7f00706,a0a62647,Books,4,283.3,2024-09-23,19,Middle East
+0a4a2bc8,baffdd8f,7d8fa3c0,Electronics,7,230.24,2024-08-10,43,Asia
+fd58cdd8,f06c105e,22969fce,Toys,4,280.43,2024-12-22,35,Asia
+10280282,0070e33e,388f38fe,Electronics,10,192.82,2024-12-27,50,North America
+0423eab8,5524c36d,c52ae3dd,Clothing,4,246.17,2024-03-09,13,North America
+093d8a41,23af3ccd,bb740728,Electronics,6,60.95,2024-10-29,26,Middle East
+f229de31,ee0abbfb,47e34a3f,Books,7,125.47,2024-07-01,13,Africa
+20f27c62,54e18924,6a0a4fd2,Home Appliances,3,121.24,2024-07-27,46,Asia
+0623055c,0976268f,53cfc19c,Clothing,5,382.81,2024-12-16,38,Europe
+fab83542,c130a2b4,9ddfd54a,Toys,4,247.2,2024-06-26,35,Middle East
+e26eccee,46d070d0,6ed77f60,Books,1,317.48,2025-01-03,23,North America
+fa9b58d4,4c79933c,4e933f66,Books,4,323.54,2024-11-30,25,Africa
+ad25a613,20fc7067,9b55dec3,Clothing,2,366.82,2024-01-29,7,Africa
+e875d1cc,9d82a745,eb05fcd6,Books,6,28.21,2024-12-23,0,Middle East
+ebb90844,7ec067f6,62e04528,Home Appliances,1,483.83,2024-02-02,1,Asia
+0b681713,80d20c30,c7dda946,Home Appliances,5,183.63,2024-05-11,29,Middle East
+2d57b4dd,f18976e0,5c9e5fec,Clothing,9,76.94,2024-09-11,16,Middle East
+39cd7ab9,6a317ffe,e61099f6,Home Appliances,6,470.38,2024-07-12,11,Europe
+93612bee,6ec386a7,b96e1fa2,Home Appliances,1,455.79,2024-03-06,10,Middle East
+82bf8295,1a58d87e,ea8fbd53,Toys,1,232.02,2024-10-29,11,Africa
+99206654,d50a8e3d,c8148b1f,Books,2,187.46,2024-11-04,32,Europe
+e7139fd1,a0b787cc,ef883d0f,Clothing,9,292.15,2024-05-27,45,Europe
+043c2168,2f29e4b0,631f67be,Electronics,6,235.93,2024-09-01,23,Africa
+9453c13e,b58bd545,a335124f,Electronics,2,43.37,2024-06-24,10,Middle East
+f522bf7d,014a4975,8e212703,Home Appliances,3,263.03,2024-04-16,14,Middle East
+da9cb1d2,6dca43be,74d89476,Toys,3,379.5,2024-08-25,13,North America
+c8ea31c7,b6dd4603,66a7b866,Toys,1,333.28,2024-04-14,33,Middle East
+7fabeb79,cecf7557,5d727fd0,Electronics,8,325.09,2024-08-05,13,Asia
+1e0cf10a,8e755123,49cceb9f,Toys,6,149.19,2024-07-13,6,North America
+2f2df4c0,9a647412,9e3b404b,Toys,1,62.07,2024-12-26,35,Africa
+2fd08358,8765a11e,82918799,Clothing,8,234.65,2024-11-10,0,Europe
+d8d71721,73b9c3f7,0a1749fa,Clothing,10,434.02,2024-02-10,14,Middle East
+f07d427f,f4206e83,a4a28d57,Electronics,7,368.68,2024-11-07,48,Middle East
+e325a3eb,30e886b6,d6a6b77b,Toys,3,421.37,2024-08-15,37,Africa
+8aeb8b95,bf4a352d,42615a09,Electronics,3,310.36,2024-11-15,28,North America
+e080268c,5a0f86ad,a948f44b,Toys,1,307.65,2024-09-17,37,Middle East
+62aa74c6,0b557686,15046e21,Toys,10,351.96,2024-02-28,14,North America
+1811d16f,a3b69436,2b4993fc,Electronics,8,265.46,2024-01-29,41,Europe
+6d83e0dc,39ff8a1e,5fecd5fe,Electronics,7,330.9,2024-02-10,20,Europe
+5fd28340,f71d34c5,d55fb522,Books,9,215.91,2024-07-14,36,Middle East
+36988fc9,9574e22d,262cb1a1,Clothing,6,482.11,2024-03-06,34,Europe
+af319e12,fe58907c,4de35760,Toys,1,69.15,2024-11-26,25,Europe
+8e9aea7f,a13a21d3,656c4dcf,Toys,8,102.42,2024-06-08,20,Asia
+eb32c902,315af15a,148620cf,Books,8,42.16,2024-05-23,9,Africa
+a81c7b4c,5892fda2,808a1e67,Home Appliances,2,257.46,2024-03-08,44,Middle East
+3024099a,b616a34b,0de91ed3,Toys,2,442.52,2024-12-08,5,Europe
+5b5d8799,334add7a,02b5e5d5,Books,3,226.51,2024-05-21,20,North America
+54b54ea9,0f06e2d5,964530e7,Books,5,135.77,2024-09-11,46,Africa
+4c66e93f,42755ccb,5c4f00b9,Electronics,1,467.71,2024-09-10,0,Middle East
+81ef136b,016abb2f,669780d6,Books,10,290.23,2024-02-21,19,Europe
+89494a63,e49ce1aa,67a8a32e,Clothing,6,26.79,2024-02-10,36,Middle East
+b7081edd,61675448,977ff27a,Electronics,9,69.25,2024-03-30,17,Europe
+3eb6ef51,2b18f5ab,5f0f7d43,Clothing,7,341.55,2024-11-04,26,Africa
+0153e5fa,d34b55b5,7c91971a,Toys,1,199.22,2024-04-14,15,Middle East
+dd90bcfd,0fc4c25c,f5b6a144,Electronics,9,114.08,2024-08-29,8,Middle East
+26d21f55,57b475df,e9f95d1b,Home Appliances,4,385.97,2024-04-01,40,North America
+c7fce836,8fb97425,6d9aecf2,Clothing,10,21.92,2024-09-13,41,North America
+c1686c19,74d0ae4e,16c2e541,Toys,2,139.92,2024-03-18,9,North America
+e33e9b8f,37495445,196ace71,Electronics,8,266.61,2024-11-28,19,Africa
+489b6c40,81586664,d38f46fc,Clothing,7,66.24,2024-09-03,22,Africa
+ba71f37e,af6b07e0,d17e0dd8,Electronics,6,127.78,2024-12-22,34,Europe
+c059345e,d1502897,c65d984d,Clothing,4,440.5,2024-03-22,36,North America
+1e7a7dd5,ac903755,083beab9,Toys,7,253.61,2024-02-26,24,North America
+f33f4c29,c8538344,ff419c35,Electronics,8,327.86,2024-07-14,44,Asia
+4a99e1b4,582fb8f7,758255dc,Clothing,3,479.66,2024-06-11,40,North America
+6a28071d,8fe4cfd3,8754b184,Home Appliances,8,277.22,2024-09-21,35,Asia
+013caf0a,7a02ef39,5627ea47,Clothing,2,215.3,2024-05-21,17,Africa
+55f79c4c,a4f45c0c,439db0f4,Electronics,3,493.65,2024-11-13,12,Europe
+f22e57e1,c3c0837e,6333576b,Home Appliances,6,373.67,2024-01-27,31,Africa
+652b86d2,71164bbc,b48b32a2,Clothing,3,36.13,2024-12-01,16,Middle East
+f732fb65,1231b913,adee7292,Home Appliances,1,248.63,2024-08-16,40,Europe
+0d2a5c93,f102953e,2d3b026d,Toys,5,223.98,2024-07-06,46,Europe
+f37f46c5,e4da2725,dfa3e83d,Home Appliances,9,120.99,2024-08-31,16,Africa
+755fdb74,261d5611,59773c16,Electronics,7,490.37,2024-02-24,5,Asia
+77b64171,9e71cbf8,1c55231f,Books,5,429.82,2024-09-13,28,Middle East
+e1b2e4f2,81686ad5,722394f0,Toys,5,107.72,2024-03-06,12,Africa
+dbf5e8a7,55a9ff40,4abb6c85,Toys,1,370.02,2024-08-27,15,Africa
+8e27f2f0,bf66f153,99cdc6f3,Home Appliances,5,357.92,2024-12-24,10,Europe
+96056b5e,d6f23d14,d57ec265,Books,3,289.77,2024-07-05,42,North America
+ea8d6694,af2ad0d7,2c32435c,Clothing,4,109.47,2024-11-01,31,Africa
+f56242df,f959ace4,e35d9378,Toys,1,272.08,2024-12-08,15,Middle East
+51a7ca39,150fb325,36b71005,Toys,1,230.21,2024-11-05,22,Africa
+e9f93520,c4a8fe87,eadb4ee8,Clothing,7,323.38,2024-12-29,38,Europe
+cdccafd6,1ba6781b,14d48b04,Books,4,39.69,2024-02-22,30,North America
+1bdf668d,db82a2d0,d6519466,Clothing,8,150.72,2025-01-09,37,Asia
+c5547cdc,20c7d824,3e438751,Books,1,29.29,2024-07-22,17,Europe
+a6df3efd,bf0adeb4,d42402b9,Books,9,35.97,2024-09-02,18,Europe
+87e33a25,00e46e3d,884b7b89,Home Appliances,8,167.86,2024-08-08,39,Europe
+d619042e,b74d434c,44bbaab9,Books,4,401.6,2024-04-16,12,Asia
+c38eaf99,ee05ece1,91b37773,Clothing,1,430.67,2024-09-23,10,Asia
+031d89cb,044d5997,673de6e4,Electronics,2,405.29,2024-05-12,20,Middle East
+04f46c91,bbba5f3e,00ecbef7,Books,10,331.8,2024-12-05,40,Europe
+db5d9a8b,55663998,c55beb1e,Electronics,8,494.85,2024-11-02,41,Europe
+1e19e03f,b9d8a055,4c0af03e,Toys,10,317.15,2024-07-16,4,Europe
+14b9c0f0,e2122879,42946d56,Books,6,231.43,2024-03-01,32,Asia
+dd2b969e,7093b4af,966a6e65,Clothing,10,263.2,2024-04-13,17,Middle East
+93709e6d,f302bb6d,0b181ed6,Books,7,443.71,2024-08-05,1,North America
+b69a2392,179dd7a2,35599124,Home Appliances,6,156.64,2024-07-05,46,Europe
+aef61575,cc717011,e48aa23f,Books,7,222.38,2024-05-05,12,Europe
+67d721b5,c223f22f,b348082e,Home Appliances,10,316.29,2024-12-13,5,Europe
+7c34aada,3cbaaf65,016d5a09,Home Appliances,2,276.98,2024-09-19,34,Europe
+7b80d89c,58e57c40,37de9a3a,Home Appliances,4,178.25,2024-09-12,30,North America
+4f729de1,0592b057,15c32b8e,Toys,8,156.89,2024-02-23,29,Middle East
+bddad691,e5506643,ced2c08e,Toys,7,485.85,2024-07-26,18,North America
+9b20c41f,50168b39,80c2d40a,Clothing,7,179.7,2024-12-29,11,Asia
+c6625da3,2f5d0273,8fc58fd5,Home Appliances,6,398.82,2024-06-27,12,Asia
+1677571c,b6457c14,e6d7ca28,Toys,3,313.03,2024-03-01,47,Asia
+df690e4d,cbfe1d92,d8a04c9a,Clothing,6,400.15,2024-11-20,24,North America
+807d6fab,0eea1083,8e9fddcf,Toys,6,363.78,2024-07-09,28,Asia
+1d232d5a,9e23bc5d,91aad51a,Toys,4,441.95,2024-05-15,30,Middle East
+afc7edc0,3a614b82,600e5a83,Home Appliances,2,51.45,2024-07-12,49,North America
+76c936b5,12c80ee4,37c7b907,Clothing,5,443.16,2024-07-24,22,Europe
+b3934ccd,bfbbc2e3,f47f71f7,Clothing,10,201.3,2024-10-07,45,Europe
+4c2c9e4a,4d323686,71d17b3e,Home Appliances,3,210.16,2024-05-01,33,Europe
+58364574,cf09b857,5ec5a14c,Clothing,5,18.22,2024-12-22,14,Europe
+0f202d0b,3018099f,a1572048,Electronics,4,486.05,2024-11-20,24,Middle East
+76221825,9fa5c994,1142c36c,Electronics,9,251.19,2024-07-09,39,Europe
+eeb26b02,b92de98c,d3815bf9,Books,1,455.96,2024-09-23,43,Asia
+1b1bd530,e8e2e7dd,f4464107,Books,10,237.45,2024-10-07,44,Middle East
+9395be8a,c40942d3,0c7944ff,Clothing,10,471.74,2024-02-16,23,Middle East
+bc12bff4,db10cb34,6e6c17d8,Home Appliances,1,443.28,2025-01-06,49,Asia
+1a9aca33,20081ac1,97fac7ab,Electronics,1,343.09,2024-06-17,38,Middle East
+5bcd60f8,791297f3,ef15e070,Toys,10,498.19,2024-07-10,28,Asia
+1e5d4539,1bc7e22f,fde38c66,Clothing,6,236.22,2024-05-01,42,Africa
+0e1cf6ae,9000a4c7,d68cc2ed,Home Appliances,9,183.16,2025-01-09,6,Asia
+682c88f2,42a97285,24f4eee0,Electronics,7,395.95,2024-10-29,46,Europe
+a3d98c80,ea0160b9,f8e1f3ae,Toys,6,371.0,2024-03-05,36,Europe
+ffa5337f,2b82ee30,f4fb1dfd,Clothing,3,165.2,2024-05-21,43,Africa
+758313e3,75ab02ac,fc0dbff1,Home Appliances,6,103.32,2024-12-16,40,Europe
+6312b597,1777bdc7,80c1075b,Clothing,8,102.16,2024-05-07,23,Asia
+6908cd26,dc07fef9,36f6d84c,Books,10,29.88,2024-05-31,22,Africa
+5e653c35,7a3c8e9c,68deb4c3,Books,10,283.47,2024-06-07,48,Africa
+fdce8331,1555d401,84874f3d,Home Appliances,3,436.44,2024-05-19,2,North America
+2f3a65c1,ff060f51,9d4a8a65,Electronics,6,219.94,2024-12-20,7,Africa
+148f951a,905c6f6d,9964c48c,Home Appliances,10,272.68,2024-06-20,42,Middle East
+feefe031,72ab6c03,a23f2455,Home Appliances,8,78.02,2024-01-18,4,Asia
+50496785,52c31466,b6702742,Clothing,1,85.43,2024-08-12,33,Middle East
+ad01c10c,e60d35a5,b5be5b83,Electronics,3,97.65,2024-05-11,42,Europe
+6b9e2752,13c0d16e,e1ac7850,Clothing,1,10.56,2024-08-29,29,Africa
+925c9c87,ae0f0ff5,dd107d6f,Books,7,431.33,2024-08-11,18,Africa
+f968ab30,d27bc25e,4eeec6a5,Toys,7,109.61,2024-04-06,3,Asia
+e5e79be7,33b6cd12,942e84ae,Electronics,3,101.44,2024-08-19,41,Europe
+fd5b3ff1,16eefe56,86ea5644,Clothing,5,220.24,2024-03-05,35,Asia
+0a3e0676,da83d3d9,a0ab6608,Books,10,366.99,2024-10-12,6,Europe
+f1c5ebc4,ee67d727,8862989c,Electronics,1,376.23,2024-01-19,0,Asia
+d346f7cb,7bb7e188,3636d28e,Books,9,158.13,2024-03-31,10,Asia
+08ee3a1a,93e3c81a,f414b2c1,Home Appliances,7,151.12,2024-08-06,29,North America
+eb1b1993,15f59213,09557502,Home Appliances,1,290.26,2024-03-12,34,Asia
+1ee27faf,d093faf8,39bd7375,Electronics,4,223.71,2024-04-12,33,Asia
+95e79ad6,4459321d,46de6d06,Books,2,343.05,2024-06-14,25,North America
+be1b6eee,24e79fe2,657dedf0,Home Appliances,2,12.08,2024-03-04,2,Africa
+ada7f40a,fa178aff,e6fca3d8,Clothing,10,73.54,2024-06-09,32,Europe
+cc9be903,e0e40e58,25badbde,Toys,7,470.12,2024-06-19,32,Asia
+eaed38d8,26c58162,41cf7fe1,Home Appliances,5,199.88,2024-07-23,29,Middle East
+63630578,908c228b,2c4dc1c0,Electronics,1,5.92,2024-08-26,0,Europe
+a6fb6633,e268a3a2,a1baf712,Books,9,28.12,2024-12-30,10,Middle East
+f1b8b9c2,95be5595,5073c54f,Books,4,432.04,2024-04-14,43,Africa
+1f67e852,36bfae2c,3fe1e89d,Electronics,1,292.58,2024-08-26,2,Africa
+2155218b,8bcf4232,fc8bace5,Books,9,187.18,2024-10-13,38,Europe
+b33dedb7,def6ee80,ab4bcbe2,Home Appliances,5,86.22,2024-09-29,31,North America
+f4958bdb,fa698c85,47e95262,Home Appliances,3,401.83,2024-07-24,48,Middle East
+56903314,3a86c56d,c5c54257,Electronics,1,15.35,2024-06-23,32,Africa
+d0a287a0,44152002,050e2731,Books,3,242.22,2024-11-09,46,Asia
+ee744728,1eb8238b,d0c61fc1,Electronics,2,88.92,2024-09-27,10,North America
+6337bba6,665db672,2e0f38ae,Electronics,9,335.09,2025-01-03,8,North America
+c2bd3519,705a8055,ec8f4b4a,Books,2,82.89,2024-03-29,48,Middle East
+d18fb583,3569155f,3e0d7aca,Clothing,8,190.2,2024-08-03,46,Africa
+b0198d86,9ac26cad,e9a79249,Home Appliances,1,490.06,2024-04-16,22,Asia
+ca1b9cfb,687d2dca,f31e96e9,Toys,5,69.14,2024-06-19,5,Asia
+f74838b9,e655771d,68ac6d62,Home Appliances,4,149.49,2024-03-14,20,North America
+e0903b5f,8a3baa1c,27f2cdae,Toys,8,383.67,2024-10-29,4,Middle East
+a7eb738a,60dff3cd,53a144e9,Home Appliances,7,156.89,2024-10-03,30,North America
+4e14653a,76da85a5,39ae2e00,Home Appliances,1,477.75,2025-01-04,34,Africa
+2f469a64,2298c89d,9f5a0056,Clothing,2,85.51,2024-10-20,19,North America
+ae0555e7,70f21474,6396eda6,Clothing,1,303.28,2024-08-24,7,North America
+810180f1,3d6ac927,a8e866ca,Clothing,9,329.96,2024-04-21,36,Middle East
+8db0798a,6ab7447a,d87d4f69,Books,5,305.62,2024-10-26,6,Africa
+9294af4c,1e7fdc58,43413509,Home Appliances,6,32.56,2024-05-26,1,Asia
+f80d1b4f,7adfb270,8d535bc6,Clothing,7,329.06,2024-04-27,23,Africa
+e5fdd64b,f1555f15,29d63575,Electronics,5,244.29,2024-07-01,14,Africa
+ad7cb796,9ea307f0,34982e0d,Books,1,116.2,2025-01-15,11,Africa
+0d63ba2d,2ec5d57d,5959d4ad,Electronics,3,470.79,2024-08-24,47,Asia
+8ae80646,32d088e3,a53d27a5,Books,3,365.35,2024-04-15,10,Middle East
+d272eb39,016a44b0,fff8a0ab,Clothing,2,36.47,2024-02-12,13,Middle East
+d8407cb4,58806a02,ac294075,Home Appliances,7,68.55,2024-09-11,24,Asia
+cd8f1e88,cc2efd8e,e2f09618,Electronics,6,378.83,2024-02-04,6,Africa
+594d9b27,5337015f,d823201b,Clothing,10,90.88,2024-10-13,11,Europe
+d89593ae,bec9e6e1,bf23bf79,Toys,3,178.43,2024-11-28,29,Europe
+61f257b0,4547e031,f23e8271,Home Appliances,1,23.25,2024-07-12,5,North America
+008ae07d,86a95560,85a6792a,Home Appliances,3,25.5,2024-02-10,35,North America
+81c55aad,a1aa5daa,f998b8f8,Toys,3,74.36,2024-04-22,34,Asia
+555fd831,d6442c53,b11a600c,Books,4,142.56,2024-01-17,22,Africa
+4c43033e,94483b19,1d8b163c,Home Appliances,9,331.28,2024-06-11,45,Africa
+f23d7e03,9e6a8763,127ff083,Electronics,1,260.36,2024-05-23,8,Asia
+1b26bf02,b76a48c9,ca63eb9d,Home Appliances,2,268.1,2024-07-15,8,Middle East
+65e0577f,f6bfe6d7,1c048a4c,Books,3,105.69,2024-05-29,7,Europe
+3cf12677,0a08e669,503044a0,Books,9,305.56,2024-03-12,44,Europe
+23d4703b,66f4c275,4f99ed96,Toys,3,428.95,2024-01-17,42,Middle East
+fbd26770,478677d8,9ebe2162,Toys,6,194.37,2024-12-23,6,Middle East
+90a00579,eecfcb60,d4838914,Clothing,5,340.53,2025-01-02,45,North America
+bbb42b00,3a8f698f,3e41fb69,Home Appliances,9,52.77,2024-04-17,36,North America
+434c8e9a,705dd00a,51858182,Books,6,455.06,2024-09-11,21,North America
+92b352aa,157a66bb,f7d15258,Home Appliances,7,146.28,2024-08-29,28,North America
+d5d6968b,3a6a188c,60a8b40f,Home Appliances,5,88.03,2024-11-11,28,Asia
+35be3b6f,b73b0d1b,7a4053e1,Clothing,7,34.07,2024-06-24,30,Africa
+9a407ab9,0022d51b,193451f6,Home Appliances,1,258.01,2024-04-10,2,Africa
+ad3e8a15,201ef1d3,a2a7107d,Home Appliances,9,415.22,2024-05-26,21,Africa
+e1245010,78e2141a,8b4de532,Clothing,3,411.47,2024-01-22,41,Asia
+9b7eae76,4fdbe8a2,c3ce0153,Books,8,162.82,2024-03-04,50,Africa
+e33dbd74,a9f51d8a,a0be8858,Electronics,3,142.91,2024-07-13,3,North America
+2919fae4,aab89238,c2320600,Home Appliances,5,99.86,2024-02-05,1,North America
+a1347ff5,6dccea72,a159ac1f,Toys,5,149.28,2024-07-03,34,Africa
+c418b19a,805f139b,94e211fe,Books,5,190.32,2024-07-08,43,North America
+31cba1e6,6ba2bdfc,17b1cbb4,Home Appliances,2,492.69,2024-07-07,11,Asia
+c3036193,6ad98a9e,a68fc428,Toys,1,33.91,2024-10-23,2,Europe
+9ef271d5,d6298e3f,4e45d1c8,Toys,5,335.6,2024-05-27,20,Africa
+7319509f,b1c28340,c8f0ccb8,Clothing,7,249.21,2025-01-01,0,Europe
+dff833dc,a0d8034c,01112cae,Home Appliances,10,48.18,2024-07-03,45,Asia
+bcc14f19,b6154d19,98105996,Home Appliances,9,216.78,2024-06-06,47,Asia
+2f1a41ed,ace9e0c8,b9c02706,Clothing,5,438.99,2024-08-02,19,Africa
+08562e2c,040f216a,4335f18c,Electronics,7,64.77,2024-11-12,13,Middle East
+6d8df04a,c0a79ce9,b58b6194,Clothing,4,412.07,2024-02-01,24,Middle East
+112572c8,8b93c34e,9f8f4280,Electronics,1,6.25,2024-01-29,50,North America
+4772e8cd,253062a8,aa19130b,Toys,6,180.0,2024-11-15,43,Asia
+19128c2a,b653fea5,7ab7eb45,Clothing,9,141.12,2025-01-12,25,Asia
+3635d865,31accec8,bdf15b5e,Home Appliances,6,352.49,2024-03-11,9,North America
+4e059632,cc1e5f2c,7f67b676,Books,10,420.6,2024-03-29,22,Europe
+1f5ab8d6,7eecf0e4,96f34d68,Home Appliances,3,168.92,2024-10-14,46,North America
+b3d20f78,2c2b299b,a2450e78,Clothing,4,485.9,2024-09-27,4,North America
+3ee845a7,f09bebf1,4b6be437,Home Appliances,10,57.67,2024-10-12,42,Europe
+ac1fefaf,96e113bc,b953d914,Books,7,212.29,2024-11-09,7,North America
+1ba24596,bc241c88,dc4f8a95,Clothing,4,55.79,2024-03-11,15,Africa
+6fc77297,6e612483,ab004766,Books,9,90.05,2024-02-11,12,Middle East
+cd55b513,731fb7b3,7704f212,Home Appliances,3,452.65,2024-10-19,37,Middle East
+174e422d,13a0be61,fc818a67,Books,4,224.54,2024-09-05,0,Middle East
+7ee0ec28,aa021063,55901900,Electronics,4,445.47,2024-08-11,22,Europe
+5da49041,5fe4d7a3,57b2cfc6,Clothing,6,271.79,2024-12-02,27,Europe
+60c518cb,1d7f2432,9204bc38,Clothing,1,365.42,2024-03-23,29,North America
+c86e2f16,c2c6acbe,9645e734,Toys,10,281.56,2024-09-15,2,Europe
+47c629bd,f79eaf06,53880406,Toys,8,35.0,2024-05-12,36,Europe
+1bc34941,6d1dd9b3,cd10ed11,Books,7,298.82,2024-03-07,10,North America
+c63a4dc5,1bec907b,0cc59ec7,Books,6,414.35,2024-12-27,8,Africa
+6fdb7c0b,9ee1fec5,31ab105f,Electronics,3,53.37,2024-05-31,15,Africa
+23084468,58e1e8ba,432c17f9,Home Appliances,1,154.23,2024-03-03,2,Africa
+f2a76a13,780f2a5d,e12327e2,Books,6,330.06,2024-05-04,2,North America
+e57b7129,cf88c309,148aae5a,Electronics,3,410.59,2024-07-26,22,Middle East
+945a4093,462fefb9,d6177195,Clothing,2,185.68,2024-09-05,15,Africa
+0033933c,b012e325,0ae03849,Books,4,120.44,2024-03-01,31,Africa
+5c5b43c2,dd6f848a,24643dfd,Electronics,5,165.05,2024-03-12,18,Europe
+4d1ed0b6,bbfe31cd,bce4e484,Home Appliances,9,198.08,2024-02-18,30,Middle East
+56055af4,869608d0,bab1e1ba,Home Appliances,10,157.04,2024-10-05,10,Middle East
+66ca0472,e3f96dbf,c455d303,Home Appliances,7,120.45,2024-07-03,45,Middle East
+9f345def,a92ec899,2828aaf8,Clothing,7,12.96,2024-10-10,46,Europe
+fe053f5c,cf1a4395,510dc81e,Home Appliances,7,33.33,2024-07-11,49,Asia
+2cf1afdd,d28d2126,09b588d3,Books,8,68.8,2024-02-28,41,North America
+c642e413,5b6daa6e,150e75fe,Electronics,9,418.83,2025-01-04,36,Middle East
+510cd6d4,59ee2f09,d074c515,Books,1,256.72,2024-08-11,36,Middle East
+2ac8e3b1,b8cc384e,5255411d,Home Appliances,3,326.76,2024-09-07,2,North America
+0c871c3e,256f7ee6,d4a67e74,Electronics,5,302.19,2024-12-10,23,Asia
+00e54608,3d062ab0,2deb07b4,Clothing,6,401.81,2024-06-17,40,Africa
+543f3f24,2b237d43,7bb5a557,Toys,10,258.27,2024-07-25,8,Middle East
+66118673,514eed1f,937f4021,Clothing,7,352.71,2024-12-04,47,North America
+08375e15,418f79f1,a02f4aae,Clothing,8,385.37,2024-04-13,20,Middle East
+8b1ae1af,7fe5e077,a8d7b14f,Electronics,9,32.87,2024-06-13,25,Africa
+3afe4fa6,56e9e1ce,df301fc6,Home Appliances,3,156.1,2024-07-14,29,North America
+0e6fd176,7aee9f33,15d4770b,Clothing,9,427.41,2024-08-13,2,Europe
+e51514e0,39c18a57,cdfc749a,Clothing,7,266.38,2024-07-12,29,Asia
+246e272c,26405006,84c7a143,Electronics,9,101.95,2024-01-24,21,Africa
+d7e26959,df3b5fca,1a1d04cb,Toys,4,140.91,2024-09-22,48,Europe
+e3599316,3f62ed2e,6a69ab14,Electronics,8,498.26,2024-03-22,34,Asia
+2cee1b04,c921c130,64e223b4,Books,9,19.85,2024-02-24,27,Asia
+73daa930,cc3fa19f,03fbe9e4,Toys,3,53.58,2024-08-27,38,Africa
+54227708,85638ef9,321ed1b4,Home Appliances,5,227.7,2024-08-13,1,Europe
+c58fdad4,ef592d91,2622c388,Toys,10,145.29,2024-09-14,32,Europe
+31e2c706,d76ecf41,1d9a5295,Home Appliances,4,21.81,2024-06-10,36,North America
+181b4292,4a97c629,3cd6e276,Home Appliances,9,166.94,2024-08-08,26,North America
+63012d38,b252bf09,a67fb8b2,Clothing,1,66.33,2024-04-28,24,Asia
+a37297c1,5d36df49,66743aa3,Books,1,161.74,2024-12-15,27,Middle East
+0e870f5e,a53f690d,59793b3b,Books,3,496.45,2024-08-25,36,Europe
+7fa57545,418d6568,90078ebc,Toys,1,393.81,2024-07-12,42,Middle East
+8dc14bdc,d8265a95,88168696,Toys,1,477.38,2024-05-25,45,North America
+198ab08c,452614d7,83d1e9ef,Home Appliances,2,216.02,2024-10-23,20,Asia
+b16da4ee,517173b8,98223666,Toys,10,428.69,2024-10-15,23,North America
+4c707397,c336dcc5,82cd0a95,Clothing,6,398.1,2024-12-14,23,Africa
+0a791f17,1fdd9d97,4c9cef6e,Electronics,4,64.22,2024-08-06,49,Europe
+ea890d74,d044be9a,e8d231da,Books,4,402.81,2024-07-13,45,Africa
+e657908e,93dc8e08,7b90c0d7,Electronics,10,171.52,2024-11-08,47,Middle East
+71146b7c,428b3534,1f6725e8,Books,6,155.7,2024-11-25,46,Middle East
+1c9d9730,e347bf67,be243b30,Toys,1,451.89,2024-02-15,12,North America
+3e2e4a43,b77a2ab0,05f46c83,Clothing,1,165.7,2024-03-10,9,Europe
+12b9d077,6698ebb8,a23edcde,Electronics,3,386.76,2024-10-12,48,Europe
+cb837dc2,fd49f191,5c8cb921,Home Appliances,7,203.43,2024-10-01,42,Africa
+0176c152,a3417672,97164fd9,Toys,9,57.51,2024-11-11,28,Europe
+f9ae4cf0,71cd3f64,bf02e343,Toys,3,12.8,2024-02-19,8,Middle East
+334bf083,60d2f4d9,4769e0d7,Books,4,255.81,2024-09-06,41,Europe
+180c0201,ee70737d,efd36867,Clothing,6,381.33,2024-08-09,44,Asia
+d071df93,6acdd91e,3c4786cc,Electronics,3,229.42,2024-11-13,16,Middle East
+da1f0fa0,2a3a58ad,eae69112,Electronics,2,382.21,2024-12-31,46,Asia
+4fd38640,87a67cf0,94a3aa47,Clothing,8,408.98,2024-04-17,46,Europe
+8f00cd27,500554da,8c3ed00f,Home Appliances,5,57.54,2024-11-27,33,Africa
+0f8ac546,217b6cad,b970eeb3,Home Appliances,10,155.5,2024-08-25,10,Africa
+ea9189a3,5df561fc,0435d70a,Toys,4,188.0,2024-09-15,2,Africa
+be7dce74,61003a1c,c1e9eb7d,Toys,9,136.7,2024-09-10,48,North America
+88566126,4555b1c0,bca72349,Clothing,1,479.11,2024-07-02,45,Europe
+4c1f472c,c6a249a0,89ca10f8,Home Appliances,4,45.67,2024-01-24,38,North America
+d1d871fd,3a686462,f0d8920a,Clothing,10,495.22,2024-10-03,9,Middle East
+c067143f,65b11447,56311a75,Electronics,9,129.56,2024-02-21,39,Europe
+8fc7a195,1b913dc3,f4e67d04,Electronics,10,327.33,2024-02-02,49,Middle East
+105ba245,a9fc2f7d,2789ab9f,Electronics,9,161.9,2024-08-18,43,North America
+721c96dd,afda0705,a63e5bf1,Home Appliances,10,310.2,2024-07-30,50,Asia
+2969a59d,a20b8064,6565d727,Books,3,405.06,2024-01-29,42,Middle East
+d3c3c576,1dfcf972,0ee1d2c2,Electronics,4,197.51,2024-10-12,11,Middle East
+6b14ff1b,fa986d71,51c031db,Electronics,10,460.78,2024-11-28,37,Africa
+e9e89553,8ad5cff0,19920659,Clothing,7,14.2,2024-04-14,40,Africa
+97cd0f39,e1afe389,84283429,Clothing,10,447.13,2024-04-08,14,Europe
+66db9ede,ebca649c,09acb9b5,Clothing,10,307.79,2024-05-29,10,Europe
+510206ac,edf97118,dcfff6af,Electronics,8,31.03,2024-07-01,29,Africa
+af6b1aec,bf55c964,24d7c83e,Electronics,5,374.08,2024-01-23,41,Africa
+aa3f3382,0ccb6551,bc20e04f,Books,10,472.17,2024-05-12,10,Africa
+eb996307,af23d5ae,181058c3,Home Appliances,5,155.74,2024-07-26,41,Middle East
+19d65edd,3c24117e,a1599b2e,Clothing,1,211.08,2024-11-30,3,Europe
+aaa541f0,1856496c,ed919400,Electronics,8,448.21,2024-10-22,12,North America
+74471c11,83fd7cf0,ffb471e6,Toys,3,96.39,2024-11-22,47,Middle East
+495541f4,ca7b41e0,1f007e24,Electronics,1,296.82,2024-03-17,23,Europe
+e76ec442,25b1e8bb,621ee262,Electronics,8,402.85,2024-04-04,42,North America
+32587d93,6ea0134d,01ae96a9,Electronics,7,89.49,2024-04-27,20,North America
+9f99cbf5,457620e2,2df66365,Clothing,5,299.1,2024-04-14,9,North America
+44d1fc62,473970ac,5000ecec,Electronics,2,246.99,2024-03-28,26,Africa
+a7807c7c,3ca4824d,c00f8dd4,Clothing,8,229.32,2024-04-06,49,Middle East
+e5d52b7b,9b2770af,4858f456,Books,5,270.71,2024-03-20,47,Middle East
+dc251235,38dfe765,b852c7d2,Clothing,1,179.78,2024-03-10,35,Europe
+19a37991,5aac26c0,31b3f9b6,Toys,6,259.67,2024-04-05,2,North America
+37bb6942,5914e136,403778e3,Books,6,11.06,2024-06-11,32,North America
+b1f43ec9,b5983b5c,0a478a6c,Toys,5,21.53,2024-12-13,31,Africa
+44c80e1f,512b1bcc,01e4d8e8,Home Appliances,9,226.52,2024-02-06,8,North America
+d9b22f47,592ee12f,9d147766,Books,6,267.91,2024-07-04,28,Europe
+81b94a97,a73ec3ee,d206619e,Home Appliances,8,479.04,2024-09-23,34,North America
+db0bc0db,6a806a7a,da86060a,Electronics,3,38.83,2025-01-11,21,Europe
+40294981,dcb6be05,6ebda139,Toys,7,457.01,2024-09-22,2,Africa
+f33c71f0,5a8e0ee6,bf22cc8e,Home Appliances,8,113.08,2024-11-05,45,Africa
+fd427b5d,1745387c,f05b0375,Electronics,10,360.16,2024-06-09,37,North America
+a2833080,e814ffc7,04ccab24,Home Appliances,10,149.32,2025-01-06,13,Middle East
+f9115e5c,db95fc11,be0c78a0,Electronics,9,483.68,2024-10-14,47,Europe
+4ad96584,712d8b2b,50601cb0,Home Appliances,3,143.6,2024-04-09,46,Africa
+b00c748e,67a22d5c,42d36dfd,Books,9,18.98,2024-08-17,3,North America
+7d0a10de,4c817d9f,0a14f3eb,Books,1,494.03,2024-11-13,47,North America
+3eab9f8a,9ddfd59b,7155e54d,Books,2,109.94,2024-03-28,20,North America
+a9d21ba9,ba7f56e3,223a8aaa,Clothing,8,163.44,2024-09-25,11,Middle East
+dde9b4b8,44f22e06,563dae40,Books,3,9.12,2025-01-02,28,Europe
+66717a08,0ce9be17,94e957a8,Clothing,8,313.08,2024-05-16,32,North America
+44353ddc,55106806,adc9c0dd,Electronics,3,346.01,2024-06-13,17,Europe
+16da32da,2548c5d6,5140cec9,Home Appliances,8,113.97,2024-01-21,28,North America
+41b4d584,00ad0634,75dc5586,Electronics,10,314.47,2024-05-07,23,Asia
+412ca2e3,c4d0172a,9f3c87c6,Toys,7,292.59,2024-04-05,41,Europe
+265e6e4c,5e2def9a,b18667b1,Electronics,6,341.05,2025-01-14,34,Middle East
+2975b76c,c692beb2,e2a71e23,Toys,8,259.11,2024-12-29,46,Asia
+445c2400,40960a7e,d5f93914,Electronics,3,445.79,2024-07-27,33,Europe
+69f0a7ea,b74b5bcc,9df60234,Home Appliances,8,338.19,2024-12-16,28,Europe
+cc47c6cb,d7b607fc,43f0bbef,Electronics,8,264.3,2024-07-05,43,Europe
+212b3348,55ef920c,76bacda1,Electronics,4,283.22,2024-06-04,2,Africa
+3754007d,45b05c60,5777fcce,Home Appliances,1,447.96,2024-06-07,3,North America
+0a234235,e5981eec,f34e5367,Electronics,4,442.07,2024-08-01,13,Europe
+c68184e5,fc65edd1,c676de8a,Home Appliances,8,123.05,2024-01-17,49,Europe
+f3d8bd6f,6e19e71c,22838931,Electronics,8,355.54,2024-10-16,25,Africa
+15dcb40d,25474261,94759802,Clothing,4,139.73,2024-03-28,6,North America
+3c3d470d,8694a269,3b4370de,Toys,2,55.15,2024-12-01,39,Asia
+0661340c,dd554bc3,5a5eacba,Books,6,297.72,2024-09-04,38,Africa
+f53e4dc7,3e250963,48a82c1c,Toys,3,15.78,2024-03-29,31,Africa
+8f1830ad,6c8afe5b,0f8e2581,Electronics,7,69.81,2024-10-18,49,Europe
+9a6cef8f,ed9c3d4c,36db5eb9,Electronics,5,164.64,2024-01-21,30,Africa
+8626fbea,2e50f0ef,63bfb583,Clothing,5,384.38,2024-03-14,46,Asia
+a73c9ebb,a5cf4e66,ba1e7309,Toys,8,430.99,2024-07-29,44,Middle East
+3c6db63d,d4ba9614,700ce026,Electronics,7,431.23,2024-06-04,27,Europe
+80ed1714,e90bce86,065ef10c,Electronics,8,112.26,2024-06-02,44,Middle East
+19ac141b,ed25b5c5,6628ef62,Home Appliances,8,184.59,2024-06-05,33,Europe
+ec97ac94,0b4c3f44,32a3d747,Home Appliances,2,82.9,2024-10-04,8,Europe
+0ae07fc9,324e28fb,6ddad146,Clothing,9,114.75,2024-10-28,34,Asia
+084b00f8,1744be81,d36b4533,Toys,1,371.59,2024-05-01,16,North America
+261755f8,fc5b06fb,d2fc7eab,Home Appliances,10,211.76,2024-11-27,40,Europe
+b7c243d6,7ff59c66,ca90162c,Clothing,4,455.14,2024-04-04,19,Africa
+64888c94,877de14d,ec609e5d,Electronics,7,306.68,2024-05-11,44,Europe
+bd36d72e,a9100b24,0441ddc3,Toys,8,192.64,2024-04-25,41,North America
+eaa9057a,5c1a9ca2,7d9bb238,Toys,1,200.9,2024-12-12,0,North America
+8ef3113c,7ff52fdd,96267f59,Home Appliances,9,175.74,2024-12-11,21,North America
+025cc90c,1808ec31,488748d8,Electronics,9,404.1,2024-04-11,9,Asia
+6b2e140c,6791ea12,856ea8e3,Books,1,98.61,2024-01-28,42,Europe
+ea5dccdf,cdc0eb5d,4a77bfa0,Toys,5,227.51,2025-01-07,38,Africa
+1347f1e3,48d60e10,fa9fefed,Clothing,9,430.82,2024-04-02,14,Africa
+56263f87,a1666f5d,a58e9106,Clothing,1,376.51,2024-03-31,15,Asia
+f3244bc4,2be2952c,92563d3f,Electronics,3,198.4,2024-06-19,42,Middle East
+4be94e40,b358d6c2,fde604f0,Home Appliances,8,147.23,2024-12-08,37,Africa
+7f29a196,897a868f,31ebe229,Toys,6,384.23,2024-12-24,5,Middle East
+4682036e,2685bc37,770cf59e,Electronics,1,214.11,2024-06-29,43,Middle East
+7e8e7c72,6414e751,643ed8df,Toys,3,449.02,2024-11-27,23,Middle East
+864fa285,0f259a5e,21f84a01,Clothing,7,374.13,2024-12-04,13,Europe
+79dabb91,f8aca7c3,9a7bce50,Electronics,10,124.58,2024-05-26,14,North America
+4681c1fe,7baba6d0,c4e405fa,Books,1,154.63,2024-12-12,3,North America
+90306858,3d57a449,ee5c0136,Electronics,8,467.79,2024-03-28,30,Asia
+5d954bed,d7075a7c,4c9d7dd6,Electronics,5,199.8,2024-03-31,3,Asia
+c3986993,2bab8e18,1b0400d1,Home Appliances,2,119.68,2025-01-03,13,Africa
+260abf9f,537f8f1e,5b19782b,Toys,6,63.04,2024-06-13,32,Middle East
+a1e2ae3a,597eeef0,26d82d2a,Home Appliances,4,355.94,2024-09-08,44,Middle East
+e17e82d4,29696555,17852370,Electronics,10,70.02,2024-01-26,25,Africa
+3d144c0b,243f7c2a,23b8843c,Books,3,84.28,2024-06-07,40,Asia
+cec48d29,cb122a34,62ddd29b,Electronics,9,482.3,2024-08-31,34,Europe
+b0614c3d,b26599c3,ec751f52,Toys,4,165.51,2024-10-30,39,Middle East
+8d18a1e3,3cf1f353,42c08b32,Electronics,5,148.09,2024-04-12,38,North America
+8e96d108,ae0f2065,05938354,Toys,3,192.96,2024-12-11,4,North America
+b69a1138,df4f8248,9f97a431,Books,8,464.66,2024-05-18,0,Asia
+cf6e0f6f,0e2204ae,430e12f8,Home Appliances,2,426.3,2024-12-03,49,Middle East
+ae1be461,24313ba9,7be710dd,Home Appliances,6,57.55,2024-03-17,4,North America
+96c31e10,2a11747e,4c2ec18c,Books,7,120.31,2025-01-11,38,Middle East
+194a8ace,09e43a31,3293fab8,Books,6,441.52,2024-11-08,37,Asia
+66b84b1a,b462d7d4,88b8faaf,Clothing,1,114.33,2025-01-06,48,North America
+fd94e391,a49aa7b7,63427d56,Toys,3,192.31,2024-07-08,33,North America
+45dd798d,f83ff130,d5417a1f,Clothing,10,333.89,2024-03-24,8,Europe
+df75a364,f99d8207,a30945da,Books,7,408.02,2024-10-20,9,Europe
+f0d38f24,1f02e9ea,06e93912,Home Appliances,2,477.95,2024-05-09,14,Asia
+c5d1b3dd,7accf61e,cd66d494,Electronics,9,112.16,2024-10-04,5,Asia
+8f3631f5,b1ef162c,795cb6b6,Electronics,7,378.4,2024-05-10,35,Europe
+21faa57d,16fcb9bf,ad8e45ba,Electronics,9,23.9,2025-01-05,50,Europe
+a1f654ad,e0abe44c,6629d4e9,Toys,5,350.85,2024-02-20,3,Middle East
+b4f9540b,33ce9b8a,fa1cee07,Books,10,12.33,2024-08-29,5,North America
+173f81bb,b5400ae9,52280704,Clothing,1,473.83,2024-02-01,17,Asia
+7e2e3005,28152c1f,7aa9640f,Clothing,8,38.36,2025-01-10,20,Asia
+1145d7f0,f9fd05a2,b9d75232,Clothing,9,371.65,2024-04-15,33,North America
+3221cbb8,38eeb542,56cac60f,Toys,9,469.27,2024-03-07,14,Middle East
+7fda1d4d,2a4f7ee8,c32f8c20,Toys,1,263.54,2024-08-13,19,Asia
+b6215a72,67b519bd,8e4dd0f3,Toys,6,313.34,2024-10-31,8,Asia
+3a75471b,845ce630,b1528f3c,Books,1,413.47,2024-10-27,11,Europe
+47bc35f3,21ed0bd3,b5af113f,Home Appliances,10,175.66,2024-09-02,18,Asia
+63f05041,6cf57d81,81fa2aab,Toys,7,229.86,2024-08-07,33,Europe
+03dad0e4,14b8b853,cdfcfd24,Home Appliances,1,393.84,2024-08-09,49,North America
+ad78442d,56ba429b,e397a735,Clothing,3,269.61,2024-12-02,8,Asia
+6df976d5,e037b7c1,ed7d1bbb,Clothing,3,154.98,2024-11-04,13,Europe
+90e9fae4,33321f4d,fdf67330,Home Appliances,5,365.5,2024-12-07,19,Middle East
+def0d7ae,acaf84d5,c717cd1e,Clothing,3,50.84,2025-01-10,5,Africa
+fb8410b8,b47aeecc,c846cf25,Clothing,1,488.94,2024-06-01,6,Africa
+85288306,08e35fc8,7fda6479,Clothing,8,225.43,2024-10-24,24,North America
+e7f1e695,259d4679,fb43cd4f,Toys,2,230.62,2024-05-23,16,Africa
+41726068,2e65fa8a,5df4ee21,Clothing,10,251.78,2024-09-13,20,Africa
+e44ec0da,a9b1fe4a,59bd39c1,Home Appliances,1,124.17,2024-12-01,6,Africa
+87067c96,2d1bb010,5212f120,Toys,1,318.53,2024-06-10,33,Africa
+05d09122,0bee0983,136ed155,Books,7,435.94,2024-12-16,24,Africa
+08c7d15c,450185bb,2f73cccf,Clothing,8,416.78,2024-07-06,34,Asia
+e6791309,96ee8e2a,5ee5db00,Books,2,494.97,2024-11-06,8,North America
+b8d4921c,7edff6fc,51946ffe,Toys,3,317.05,2025-01-12,32,Asia
+b32d7aa6,6ea7a4b6,6454e888,Toys,5,30.6,2024-04-07,0,Europe
+f5d1c953,567628a6,b573c38d,Clothing,6,293.08,2024-02-11,26,Europe
+fa3c6928,41fa6c42,039e5524,Home Appliances,3,135.65,2024-06-13,30,Europe
+85ec966e,a9201768,f2020aea,Clothing,1,363.33,2024-11-09,40,North America
+80c7685a,b78c32de,4931926d,Electronics,7,412.52,2024-07-26,45,Europe
+e2e0b2cb,967f505d,8c5f16a0,Clothing,3,361.7,2024-06-05,7,North America
+026112cb,88cee3a7,f7b8ea05,Home Appliances,3,426.09,2024-07-20,37,Middle East
+93b41da3,fcaf063f,138228f7,Clothing,9,94.35,2024-11-16,15,North America
+171f6254,2d5e4233,5e4ee3d2,Books,4,50.87,2024-07-18,29,North America
+1ada5c33,8ddb0fcc,60762da7,Books,1,297.89,2024-12-22,6,Asia
+288371f7,d64be20a,97b47401,Electronics,6,454.04,2024-10-15,22,Africa
+23e501fc,3f610a2c,b5055dc3,Home Appliances,10,367.23,2024-01-28,15,Europe
+96b63a2c,cdff93fb,2624862b,Electronics,6,293.0,2024-09-16,42,North America
+2299908d,2bfe6a32,e32d209e,Home Appliances,1,392.9,2024-02-03,7,Middle East
+1145402a,c217b7bc,e01e2be2,Toys,4,112.99,2024-12-07,12,Asia
+6ca9449c,d4f09753,18d22f57,Books,10,366.22,2024-05-15,32,Asia
+3a2c0889,65c322d3,0e0eb440,Books,2,213.77,2024-04-22,11,Europe
+469542a6,367b6ec2,61d99cde,Toys,2,127.34,2024-08-21,35,Africa
+08c3c04b,55a1e0b4,c4cd066e,Clothing,5,365.29,2024-05-10,16,Asia
+2f2789c9,af12de9c,a1866bac,Clothing,9,87.15,2024-01-24,18,Middle East
+c02ee5d7,a3f1788c,21476375,Books,6,138.22,2024-07-06,4,Europe
+77a3043f,02007c44,afc2e5a3,Clothing,1,128.34,2024-05-16,42,Asia
+5294f5d2,cc054f09,a8ea40c6,Electronics,3,445.16,2024-05-27,12,Middle East
+82b49357,6b670f2d,92b36243,Clothing,4,161.38,2024-02-19,9,Europe
+64d82c5f,6ccfde81,6d8c33df,Electronics,2,250.84,2024-10-05,41,North America
+190d66eb,7144a68c,4f4e3460,Toys,4,273.51,2024-09-13,27,Africa
+d02a3771,2491fee7,db50bc75,Home Appliances,8,371.46,2024-07-29,4,Middle East
+67c465f2,10893bc2,e187a849,Home Appliances,7,488.02,2024-09-27,18,Asia
+e279b4ad,b06aec97,f45ca994,Clothing,10,222.11,2025-01-07,50,North America
+8ed1aed7,0471b000,51f3ec1c,Toys,10,130.9,2024-08-19,22,Europe
+5012eace,0d334989,f4fccb0e,Books,1,198.64,2024-10-04,33,Asia
+15477142,2465d40a,bea51acf,Electronics,4,247.29,2024-11-27,35,North America
+f844d32d,f7c1c042,3d93c22c,Clothing,3,184.59,2024-03-12,42,Europe
+85dd086c,665eb313,562252b6,Clothing,9,440.77,2024-09-13,15,Europe
+d319be18,ecb7aa16,f493d568,Toys,7,159.62,2024-03-22,28,North America
+5432761a,fec764d7,755a52dd,Clothing,3,359.82,2024-06-06,11,Europe
+1a130fec,3e0ab55d,f5f9fecc,Toys,7,209.4,2024-04-03,25,Asia
+f981ac08,b89f6147,5d85ac64,Toys,7,176.1,2024-04-19,37,Asia
+65a3416d,892d5447,0eebea80,Toys,4,362.71,2024-10-06,21,Asia
+70c0626d,9440a383,a86639bd,Toys,4,85.68,2024-11-26,26,Asia
+0cc4eeb2,3f342571,a8b84ae9,Books,1,174.65,2024-09-03,34,Asia
+6327e80f,a9c0d2b7,a4994738,Home Appliances,7,331.37,2024-05-24,23,Asia
+1ab9cdc8,0b70a3c9,aa4b7d04,Home Appliances,6,66.02,2024-02-05,24,Europe
+db467ea6,3a3ac743,bac06df6,Clothing,6,195.97,2024-04-24,32,Middle East
+9a1bf822,ed705b40,0f6211ea,Electronics,5,152.58,2024-02-11,49,Africa
+6f5ba1a7,850f069a,8720962d,Toys,2,397.99,2024-04-13,48,North America
+695abecf,01f1697d,e3711bd8,Home Appliances,9,10.42,2024-12-04,6,Africa
+722f5df4,fb512585,35003acd,Toys,1,343.39,2024-01-31,48,North America
+c872a3b0,a6ffdfc1,a84fec39,Clothing,2,105.37,2024-08-31,28,Asia
+d5c1e7c2,53c3dacf,639526c3,Toys,8,18.99,2024-08-30,16,Asia
+1d624f71,014e2747,518e8f55,Electronics,4,283.63,2024-04-30,44,Middle East
+18c8c1fc,5d54b54f,154bc4c5,Toys,3,14.98,2024-08-02,24,North America
+41c31a9d,b72e68e7,c05aacae,Home Appliances,9,40.18,2024-12-28,47,Asia
+0985ec02,b23bdca7,5f038166,Electronics,7,325.68,2024-04-10,4,Asia
+a421049d,93e0ca1a,ac526c61,Toys,7,271.33,2024-05-08,16,Africa
+57a779a1,5f8c52b6,24675ad5,Electronics,5,244.53,2024-08-20,6,North America
+04d05197,5fc63647,4d4571c3,Home Appliances,3,488.16,2024-07-09,21,Middle East
+f0bce9e0,2d643293,e21b0cdb,Electronics,2,120.51,2024-03-31,10,North America
+47e99a9d,205f3dc3,16131fc5,Electronics,6,387.45,2024-05-03,42,Europe
+97b47b6f,9075b10a,79b70ea7,Home Appliances,5,156.65,2024-10-17,31,Africa
+37dce17a,31405828,12f7ca55,Electronics,5,263.33,2024-05-26,41,Middle East
+a92132c1,f8fc371b,224b2e70,Toys,4,197.56,2024-07-29,28,Europe
+9e4dcfdc,1bcdffd0,d4fe95ef,Electronics,10,486.12,2024-04-15,23,Europe
+35b8683a,8f2b53f2,e7c4cd46,Clothing,9,135.09,2024-11-07,11,Africa
+f733b135,deda2f02,b1b9e67b,Home Appliances,5,405.78,2024-10-21,38,Middle East
+ec0102d5,6768136e,20bb1e7a,Books,9,268.85,2024-07-09,50,Africa
+0590b5c8,e3d920f7,fa437c0a,Toys,1,31.27,2024-07-12,10,Africa
+ca7dbfd1,1376c20e,3957195a,Toys,9,155.86,2024-10-10,25,North America
+fa68405b,9dc06248,a6c45b9a,Books,4,473.27,2024-12-03,0,North America
+c84614f9,b3039338,79e4f896,Books,9,229.06,2024-02-14,19,Europe
+ded35586,6f4549a7,172b37be,Toys,9,352.66,2024-04-11,7,Middle East
+928fab91,8e86348a,dfba7a81,Electronics,7,261.25,2024-06-11,15,Asia
+6f688d5d,315857c4,14ac30ed,Books,1,346.07,2024-11-26,44,Asia
+8937e3ac,a5e24d98,e13a32cc,Clothing,4,393.88,2024-10-01,1,Africa
+4738e45d,4642c32b,4c29873c,Home Appliances,7,164.37,2024-08-05,9,Middle East
+c7c678ac,686fc7e0,47a47cbd,Home Appliances,4,208.19,2024-02-19,9,Europe
+291dc3d1,4361cad8,2a7a51de,Books,1,91.87,2024-09-03,45,Africa
+9355bdb9,7497d365,5eb73ee8,Home Appliances,3,213.1,2024-04-11,33,Europe
+88368100,3109da62,b8ab2738,Home Appliances,3,325.83,2024-07-24,33,Europe
+c9ea2d4b,b56885a2,1357f0f5,Books,2,328.46,2024-09-06,38,Europe
+47567bab,60aa1242,b12afbae,Home Appliances,7,44.67,2024-06-17,46,Asia
+7dd681d9,70933967,c9bc3fba,Clothing,4,400.73,2025-01-16,44,Europe
+87d5f16a,153bbc7c,a3b35755,Home Appliances,7,220.47,2024-05-11,30,Africa
+dcb73e44,e0541365,d5edf2e9,Toys,4,144.3,2024-05-10,50,North America
+b51fe29f,ade50fd3,322bfb57,Clothing,9,290.86,2024-06-02,50,Africa
+ef3ab942,19bb42c7,80a00913,Electronics,2,458.62,2024-08-15,4,North America
+ecc7675f,f9e8546f,ad3f27af,Clothing,8,47.22,2024-10-25,36,Middle East
+4f0dd47d,0ff090df,ea70997e,Home Appliances,7,160.59,2024-06-01,26,Middle East
+7676fa35,b09a95a9,43e42a11,Electronics,5,66.44,2024-10-13,50,Africa
+e4b539d2,7fb01b07,f3d20179,Toys,2,170.99,2025-01-08,35,North America
+d1e7ba09,2dea1f76,adebb761,Toys,8,182.76,2024-03-30,8,North America
+ae9f9f12,f25d60f5,69f0e65d,Home Appliances,9,429.27,2024-05-24,43,Europe
+6e965af2,190947ea,527848fb,Toys,1,340.35,2024-09-20,16,Europe
+a2ae209e,4e78e920,6bacdacf,Books,3,6.83,2024-02-04,13,Middle East
+e44c247f,1653e988,5ddef30d,Clothing,8,385.03,2024-11-02,0,Africa
+c396ff6b,784500aa,8e6bdbb2,Electronics,8,202.44,2024-10-09,13,Europe
+f4a88d3b,75b49c39,0d6e86e1,Books,2,20.44,2024-09-13,26,Middle East
+c561c9eb,aa408e4f,75331984,Clothing,1,57.47,2024-10-01,18,Europe
+89b2254c,e8856117,0d78eb6f,Electronics,3,488.63,2024-03-02,47,North America
+40e8b01c,b2e536fe,df7b04ad,Toys,3,192.65,2024-04-06,30,Middle East
+972ed0bc,00d144e6,6f812c15,Toys,6,479.22,2024-06-03,49,Asia
+75ebff3e,b60070bf,8db92445,Toys,10,36.35,2024-11-14,7,Europe
+63c2dd61,19889708,6b75df2f,Electronics,4,13.27,2024-05-09,22,Africa
+9d82a53f,b3816664,05f2ff8c,Home Appliances,1,451.83,2024-02-26,34,Asia
+f9d66461,585c1a79,80312224,Books,3,349.03,2024-05-13,22,North America
+471b62b9,76839191,06e31716,Toys,2,334.26,2024-09-20,40,North America
+be04c435,319b585f,837de2a8,Toys,9,385.48,2024-06-17,17,North America
+06ace6fb,d6a5fd14,c125d74f,Clothing,9,208.27,2024-01-29,13,Africa
+5014f2b7,3e0a26f1,fdf0a242,Books,2,20.54,2024-10-12,9,Asia
+e667510c,e9fb1331,52cb5eff,Electronics,7,176.76,2024-03-20,13,Europe
+001de57c,48dfc789,efb778c4,Clothing,1,448.67,2024-02-10,30,Europe
+b8dcb1d0,6c4b8b61,7dd6b051,Clothing,8,44.09,2025-01-07,3,Europe
+c322804e,363afee6,f4299e85,Home Appliances,5,57.55,2024-07-20,50,Middle East
+6150ffc4,c847b6bd,f1a910d7,Electronics,6,89.56,2024-02-15,12,Africa
+c035d028,88a8afe7,13cc090d,Home Appliances,9,362.96,2024-03-22,38,Europe
+83ae837b,f9f320be,1faed537,Clothing,3,431.34,2024-10-08,26,Europe
+7a551855,13e79317,1b54a3ad,Books,8,323.22,2024-05-01,17,Europe
+cb97c69f,c6f5bccd,0dd263a8,Toys,2,437.04,2024-04-03,37,Middle East
+b110c4b3,1dccab21,04fd452f,Toys,2,438.88,2024-10-02,18,Middle East
+049b106e,5fca9654,711d4181,Clothing,3,171.95,2024-06-18,31,Asia
+5ffbe526,e8e61c5c,87579b3d,Books,9,245.4,2024-12-23,18,Europe
+7ec69405,3625fad2,acace96f,Clothing,4,165.1,2024-03-20,15,Africa
+144974eb,ac825164,a5fc120b,Electronics,5,274.53,2024-10-30,27,North America
+afcf0d4d,72d33150,fec44380,Books,6,72.8,2024-10-08,50,Middle East
+d9f6750d,6084d42b,4befb2bb,Books,2,213.45,2024-10-29,17,North America
+48737972,dab3865c,5b7994e3,Toys,2,171.22,2024-03-15,26,Asia
+64967e25,254a72d3,4d0560e8,Electronics,9,271.04,2025-01-13,44,Middle East
+f3504974,a0c9e616,94603b28,Clothing,6,433.36,2024-03-18,31,Middle East
+e7f6728a,2d72ffdc,8b9f18c1,Clothing,3,251.59,2024-12-10,39,Europe
+4e5a43de,647d9d79,96bcb540,Electronics,4,13.71,2024-11-26,24,North America
+65cc9553,85bd809b,f9753384,Home Appliances,1,128.44,2024-08-07,43,Middle East
+9eb39061,c97d9640,67f7106a,Home Appliances,6,141.08,2024-10-11,37,North America
+6b0b1181,a864fdc7,1d1ddf68,Toys,4,210.9,2024-06-30,34,Africa
+ce61c0c1,40fc7efa,2fb4e91f,Books,5,417.59,2024-10-09,40,Middle East
+3219eff3,4fb3c773,f4ff9e0f,Books,10,240.92,2024-10-31,4,Middle East
+45f8568c,99c63ea9,a2eab3d5,Electronics,4,333.67,2024-06-25,43,Asia
+fba63304,cb438d82,6c6e3afb,Electronics,6,388.22,2024-03-24,19,North America
+96010640,8d1d8860,69fc9d56,Electronics,10,328.31,2024-06-24,47,Africa
+e5d5bbb4,79b45c7f,69e23d6b,Toys,6,336.13,2024-04-16,48,North America
+fcdb5d65,64738fba,e80956cf,Electronics,9,40.7,2024-02-09,41,Middle East
+89312226,a69bf779,c9784c2f,Books,1,316.91,2024-09-04,25,Africa
+d6d465bd,1da77263,4a1d79c2,Toys,5,224.55,2024-03-27,34,Africa
+a0f3a536,4783a5f9,98a35e6b,Clothing,7,429.1,2024-04-29,45,North America
+10e718f9,9523a1f9,d7fc73f0,Books,9,391.98,2024-09-23,43,North America
+afd5bd2c,50f51573,38a7f747,Clothing,9,418.08,2024-10-03,48,Middle East
+cb65252c,c57bd858,22ff65d8,Books,10,413.98,2024-01-20,23,Middle East
+64ac7cbb,b8f77b70,044e60e7,Books,9,443.26,2024-04-16,1,Middle East
+7c8e8aff,a93f08eb,ef5a82ac,Clothing,2,60.95,2024-11-24,14,Asia
+83948435,68dd6785,68530389,Toys,4,378.34,2024-03-14,26,Middle East
+36795044,3b408d6d,d8b9f4cb,Clothing,1,44.65,2024-08-10,50,Africa
+eceb93e7,8f366c7d,3a803a16,Home Appliances,1,38.25,2024-03-22,25,Europe
+be2190ed,91d49549,ddd73f74,Toys,5,259.2,2024-02-12,9,North America
+05d7e0b3,c06d44c3,590dfa92,Toys,5,35.17,2024-02-11,20,Asia
+65401153,a54d18b0,330a071f,Toys,6,276.84,2024-12-24,13,North America
+6542abb6,4811dcda,8f6a6fdf,Home Appliances,10,274.76,2024-01-23,14,Europe
+06d71789,4a2fae32,310f8761,Books,4,337.02,2024-12-20,13,North America
+0955e2f0,81abbeec,84f98c36,Books,7,62.59,2024-04-05,10,North America
+e1f7ea43,bffebf83,e4192090,Electronics,10,265.64,2024-08-06,35,Asia
+141a7d32,aae3cd32,6edc01dc,Toys,1,110.4,2024-09-05,46,North America
+f00e4378,ee10a6ac,2ba2c756,Books,2,89.31,2024-01-30,33,Middle East
+1f428155,acb59d09,29d9b3c2,Toys,6,19.89,2024-09-06,46,Asia
+a8ba5541,ba3107cb,1db8ffa5,Books,9,8.23,2024-03-22,22,Asia
+498eeaa0,5b249416,eb02b97a,Home Appliances,4,169.83,2024-09-21,1,Europe
+2c4916b3,333103a0,da625427,Electronics,10,292.72,2024-06-16,7,North America
+b0c4b401,e32eded5,22a3c64d,Clothing,6,344.87,2024-10-05,20,North America
+9a67939c,fc04d22f,22b90e72,Clothing,4,25.43,2024-01-19,38,Africa
+a57f25cb,993679dc,5afca459,Books,9,177.91,2024-01-18,36,Middle East
+b4d4dacb,0a51d669,d56cc0b9,Electronics,3,43.7,2024-07-12,2,Middle East
+3e590e1b,9755a88d,08937985,Home Appliances,9,293.62,2024-11-18,18,North America
+2dfecd73,591f5609,ffb404d4,Home Appliances,4,376.61,2024-05-09,4,Asia
+5ffebe2a,0897ad8c,40d4c198,Toys,6,58.21,2024-09-27,24,North America
+256d8fa5,b466f2a1,1f8844e0,Books,7,153.76,2024-04-16,24,Europe
+70f9ae7c,901dcfb9,52467f40,Toys,10,448.45,2024-02-16,6,Middle East
+c2cece49,cf9b2093,97ff42f4,Clothing,7,127.58,2024-09-15,32,Europe
+685f4f4d,aeed5ef4,ed8c0b51,Home Appliances,9,244.63,2024-10-07,47,Asia
+660588ee,64b7d398,67b87ea7,Toys,6,193.5,2024-06-24,40,North America
+86f6e7f8,bf33f529,ca9679bd,Toys,2,142.19,2024-04-12,9,Asia
+1981aa61,a584b1a8,7dbfd723,Toys,7,96.7,2024-02-07,24,North America
+7e0eb6a7,db2d74fc,5a3fbe1d,Books,6,56.83,2024-03-08,6,Middle East
+e20cb9f1,50cc26e7,f78e65db,Electronics,6,170.89,2025-01-01,45,Middle East
+6d9f4dec,c6afc628,1efbfe36,Clothing,6,55.73,2024-03-05,12,North America
+71c5546a,74f7685d,b6e52d5b,Home Appliances,6,188.96,2024-05-06,19,Europe
+a9310a6d,863043f5,c4fccf97,Electronics,6,467.9,2024-11-02,4,Asia
+b9ac9194,28439614,34893cc1,Home Appliances,10,339.25,2024-07-26,10,Africa
+4a00a6da,60a1412e,301cf3ca,Home Appliances,10,431.64,2024-02-16,17,Asia
+7aa3e921,b72250b6,f2a63df2,Clothing,5,136.67,2024-10-13,18,North America
+2fb455a7,bf1cd56e,abd1dc87,Toys,4,375.72,2025-01-03,47,North America
+04392236,f7ebbdd5,db715169,Toys,7,365.58,2024-09-28,25,Africa
+7a53e579,33def384,83b14c19,Toys,9,158.79,2024-11-28,11,Europe
+4a21d9d6,ac88f2ac,e956b8fa,Home Appliances,8,5.2,2024-11-26,48,Africa
+b41828a4,1157a26f,e46a4e3a,Electronics,4,170.83,2024-01-29,32,Africa
+fabd4e34,ed8aeca7,d939c8b8,Electronics,8,324.94,2025-01-11,13,Middle East
+7ce27f9e,ca848e41,90f5a983,Home Appliances,8,230.4,2024-12-10,31,Asia
+19872f4f,1b839d89,973cee2d,Clothing,2,229.39,2024-10-11,41,Middle East
+78af1d1a,a3b2272b,d00e97eb,Toys,5,39.67,2024-08-25,5,North America
+3e406db2,682c03b5,281e07a3,Home Appliances,7,359.28,2024-05-10,11,Africa
+25eda68e,f4594929,f26cbc6b,Clothing,7,64.39,2024-05-16,23,Africa
+f4e5d362,c425506c,e206b666,Books,8,161.52,2025-01-14,7,Asia
+796be5f2,ef1e2dad,2049f03f,Electronics,3,353.0,2024-12-25,14,Middle East
+e59393dc,2c27f059,59cc3297,Books,8,91.86,2024-08-31,3,North America
+76725fad,bee07a5f,577690db,Books,9,307.2,2024-12-13,28,Europe
+68506ba2,95c2e978,cc8774d6,Electronics,9,50.39,2024-12-05,16,Africa
+cbbb2118,cad3fbc2,40f4a65f,Books,10,421.6,2024-12-06,15,Europe
+70dc53f0,f83a4ef9,cab67fe4,Electronics,6,255.04,2024-09-26,43,North America
+367053a4,d933480b,597a9787,Home Appliances,3,403.31,2024-09-08,34,Europe
+e2c710da,49ceb4e1,00a11c49,Home Appliances,10,277.87,2024-08-14,20,Asia
+e1400ea5,55e2a29c,664acde9,Clothing,7,459.12,2024-08-07,35,Europe
+269cdb66,2a9d883a,cf3776ef,Home Appliances,9,293.57,2024-08-04,47,Europe
+e15a8b4a,067ef584,e6bc3a74,Home Appliances,5,492.34,2024-08-15,27,Europe
+c766776f,50c1882f,09794950,Electronics,10,36.01,2024-07-15,18,Asia
+b124042d,9571c588,87815638,Home Appliances,1,125.44,2024-10-25,1,Asia
+943cf94a,7766d23c,53b2bf4d,Home Appliances,10,292.93,2025-01-12,5,North America
+547b0261,908f4c93,a5bb3aac,Electronics,4,6.11,2024-06-24,5,Europe
+e2b2c487,285e929e,2a82322f,Home Appliances,2,40.85,2024-04-23,30,North America
+6969fce3,c7b2c56e,57f662ce,Electronics,5,403.89,2024-07-04,2,North America
+876d5c31,0944c96f,7ed3a389,Clothing,4,415.34,2024-03-21,30,Asia
+c1f7dd98,85cbc3b0,be47ea78,Toys,5,106.07,2025-01-11,11,Africa
+754e26ea,b3074af0,6ef8bb1f,Home Appliances,10,388.91,2024-08-31,26,North America
+e8947e13,ad4c8fc6,71b5e679,Home Appliances,1,164.98,2024-11-28,47,North America
+281ae46e,3ec985f8,ed561e76,Electronics,10,357.17,2024-02-12,14,North America
+1c4f596f,ecafe59b,8b9295d9,Books,6,79.58,2024-01-23,14,Asia
+58997a77,16c6b58d,e3fd886e,Home Appliances,9,400.06,2024-10-12,37,North America
+8cf4e6ee,ef51024e,74e64431,Clothing,2,299.94,2024-09-18,42,North America
+dbab721f,348779d3,fbf51b4f,Electronics,5,92.14,2024-02-25,6,Middle East
+bdfa46e3,76c154f1,11c1b610,Clothing,5,72.98,2024-10-29,23,Europe
+7aa0abd3,cc7b3984,07269654,Home Appliances,10,139.81,2024-05-08,18,Middle East
+60064f7e,ed027d20,29b417d7,Toys,1,293.17,2024-08-12,24,Asia
+04795213,b77ca10b,083a4978,Toys,6,65.71,2024-03-29,36,Africa
+021dfb84,cccd16e4,e256e5a5,Clothing,1,459.86,2024-04-19,13,North America
+1c99be80,9d2eaa3b,127c912b,Clothing,1,6.56,2024-09-19,26,Asia
+2351a032,2547efba,aa5f8fa8,Books,9,451.58,2024-11-02,19,Middle East
+ab28ac9a,1e5ab1be,a3e969f7,Books,2,304.61,2024-11-01,33,Africa
+ba505f41,531c2631,f84e2d69,Toys,10,392.67,2024-02-24,6,Middle East
+03bd1d5f,64cda944,1366ec7e,Electronics,1,444.36,2024-11-17,45,North America
+0a78783b,3450300a,c4363752,Clothing,9,363.13,2024-02-25,24,Middle East
+619d3654,e817f449,ca8b2d77,Books,2,174.8,2024-08-19,10,Middle East
+055dd7c7,5e31d2d1,26164eb4,Books,7,322.42,2024-02-02,20,North America
+646e2203,3e75c125,06b3c032,Electronics,4,140.82,2024-06-24,47,Middle East
+70debdb8,40647934,265331b7,Clothing,7,78.28,2024-05-11,7,Africa
+e8a5873f,94caaee8,f8dd00ac,Electronics,10,70.09,2024-05-07,48,Asia
+2ee49c23,b7cea043,0b6d1aac,Electronics,2,404.77,2024-03-29,42,Europe
+6a1593d2,baad4886,4e36eade,Electronics,4,261.33,2024-12-17,16,Africa
+3aa198f9,1cb9704d,418a50ef,Home Appliances,8,162.68,2024-07-10,22,Africa
+f85de81a,bf27c855,02b6ff2c,Books,1,246.55,2024-02-19,12,North America
+b0582c5a,c6c32350,b3f55b3e,Electronics,5,43.93,2024-01-27,22,Asia
+1f193660,e6b60eb4,c20148b3,Electronics,4,357.72,2024-05-08,49,Europe
+62e446a0,bfc55721,37afe8f0,Electronics,2,356.57,2024-08-12,12,Africa
+f85f94d1,9c2fc8b5,39bdef0e,Clothing,5,311.53,2024-07-31,22,Asia
+62e6f346,e12589b9,ca660526,Toys,6,156.26,2024-07-03,6,Asia
+bd2839b3,bd790734,547fa352,Electronics,7,466.22,2024-01-27,48,Asia
+f3d0cf6e,feb973ce,f503da5f,Books,10,226.23,2025-01-07,26,North America
+deeab16c,881a6de2,c4e85131,Books,2,149.77,2024-10-03,31,Middle East
+28a48b32,ae5d6d58,d66c6e66,Books,6,360.29,2024-07-11,20,Africa
+5ecb99e6,fbef7cbf,662e23b4,Books,10,484.15,2024-10-09,21,North America
+9034ddfb,0877d418,32426589,Home Appliances,7,228.72,2024-06-21,49,North America
+4c647b41,3ec68065,cba78840,Books,2,240.51,2024-02-11,23,Europe
+615b7c73,19ed8413,0c19e18f,Toys,1,385.6,2024-07-27,17,Europe
+537cd816,53a43db5,f9f7b77b,Clothing,2,249.71,2024-06-12,37,Africa
+7ffcf76f,e4c1ef08,38648287,Home Appliances,7,243.93,2024-07-16,27,Africa
+3801efac,07928839,2ab6c3e8,Toys,4,397.06,2024-03-13,43,Europe
+88705879,6397f434,d0bfcbb5,Electronics,3,428.71,2024-03-19,31,Europe
+d3ae4ed7,24e41a06,6ba752c5,Home Appliances,9,425.79,2024-09-10,13,Africa
+cd4234f0,d2c7bccd,c963d375,Toys,1,271.98,2024-10-13,37,North America
+708ee725,4baaa063,9fd4b02d,Books,5,492.63,2024-02-11,40,Europe
+b9ce08f8,bc1bf75c,3a6573eb,Toys,9,385.04,2025-01-06,22,North America
+fc55bb9e,2337c4c5,7b882a2e,Electronics,5,140.4,2024-09-17,12,Africa
+73dd79aa,29be1509,33a40b13,Books,6,69.85,2024-06-28,5,Africa
+ff05d608,b41c449f,a60d274a,Books,5,249.26,2024-05-09,20,Africa
+e99db7cd,7d471db6,32b12c6d,Clothing,5,51.25,2024-11-17,48,Europe
+a708ad17,385b4ab4,050756a9,Toys,8,74.41,2024-07-04,16,Middle East
+4b36485a,e703ed47,aec84a1a,Clothing,5,408.15,2024-08-06,43,Europe
+b68b1d02,08555f4b,1cc1e98a,Clothing,6,240.1,2024-05-19,17,Middle East
+5af32c0a,8f0057ef,8d832634,Electronics,1,485.06,2024-04-27,44,Europe
+e6470e80,969a7429,b8446320,Home Appliances,2,325.07,2024-03-23,35,Asia
+2b542760,9e54bcee,429d00e5,Books,8,153.36,2024-05-31,12,Asia
+5333ee00,720677fd,272ad0d9,Home Appliances,5,209.04,2024-12-08,33,Africa
+aff7f4c8,d0d0808c,e146941b,Clothing,10,59.2,2024-07-19,5,Africa
+0a50a53a,27cfec0a,5202e21b,Books,3,108.42,2024-10-15,12,Europe
+23d5b5c0,4c1efd3f,b29d152b,Clothing,10,40.84,2024-11-16,28,North America
+67157bec,37c4c490,909ea0d5,Home Appliances,2,333.21,2024-07-29,0,North America
+0382e33d,bec52bd6,146bbabd,Toys,10,156.42,2024-09-06,47,Asia
+534c99cf,9a5674ab,055badc1,Clothing,4,106.09,2024-08-24,37,Africa
+bb8c5bd6,75b12fc2,3edba512,Clothing,5,108.9,2024-06-21,49,Asia
+aa49e2df,8acefec6,e53a4df7,Home Appliances,1,320.83,2024-05-13,31,Europe
+2519a1fd,32b010d4,3d6e2450,Toys,2,106.89,2025-01-04,27,Middle East
+16f850a5,ff33d68f,e37914ec,Electronics,5,466.2,2024-04-07,31,Europe
+46b5ed69,86b372e1,2ef47d94,Electronics,9,299.68,2024-11-29,9,Africa
+817a8216,24ad65b2,10a918c9,Clothing,3,85.95,2024-01-17,45,Africa
+0c3831ab,060f5cfb,63ceba6f,Books,5,52.99,2024-07-05,30,Asia
+8f6f6fde,db47a7c1,1f368590,Home Appliances,9,352.97,2024-01-21,32,Middle East
+834a5a6d,c9c0d34d,c1fed55b,Books,4,453.2,2025-01-06,18,North America
+f50512ac,d8dd8084,666c412c,Electronics,9,135.12,2024-07-30,31,Europe
+574e67d0,27f224a3,34f2ded4,Clothing,5,477.95,2024-03-01,21,Asia
+99091be2,b50ecb16,cae6acfe,Home Appliances,9,390.2,2024-07-16,38,Europe
+ce1f2879,5f08804a,c730f1a2,Toys,1,136.53,2024-11-23,50,Asia
+74e38c7e,d245a155,84678922,Books,2,295.16,2024-03-05,17,Africa
+67181d8e,fa70e3ad,cc543e22,Clothing,10,330.82,2024-04-23,33,Middle East
+9ab2be46,e2203677,a9d62f53,Books,2,438.5,2024-07-24,47,Middle East
+aa6656f1,619b6a23,e9a8f74b,Toys,9,66.21,2024-08-12,29,Europe
+70f7f05d,4c6fdec0,c8fc9baa,Books,9,320.6,2024-09-07,39,Asia
+5cf73e7f,fc7f0f4d,557932c8,Books,1,300.84,2024-12-18,39,Africa
+69cfefe3,42624934,c431ce2d,Home Appliances,3,184.56,2024-02-18,29,Middle East
+6d2087af,d860e025,7f4377e9,Electronics,10,23.47,2024-12-06,5,North America
+877712c6,ab716fe1,e9ce43fc,Clothing,6,300.23,2024-08-19,21,North America
+2dcabad1,ccaba11b,2e2c3ec3,Electronics,4,358.51,2024-04-30,19,Asia
+96373439,baba0c62,96e038dd,Electronics,8,348.6,2024-08-27,30,Africa
+9613fa75,70f4917e,25ad9bb3,Toys,1,394.03,2024-09-19,20,Africa
+8dedbd5d,5fcec6d9,858462ac,Electronics,2,171.57,2024-08-01,17,Middle East
+de50348e,00bec2f6,a8ea5757,Clothing,3,185.43,2024-04-17,16,North America
